@@ -1,0 +1,27 @@
+[
+  {
+    "name": "categoryNameMatch",
+    "class": "org.apache.solr.ltr.feature.SolrFeature",
+    "params": {
+      "q": "{!field f=categoryName_text_en_mv}${text}"
+    }
+  },
+  {
+    "name": "nameMatch",
+    "class": "org.apache.solr.ltr.feature.SolrFeature",
+    "params": {
+      "q": "{!field f=name_text_en}${text}"
+    }
+  },
+  {
+    "name": "priceFeature",
+    "class": "org.apache.solr.ltr.feature.SolrFeature",
+    "params": {
+      "q": "{!func}field(priceValue_usd_double)"
+    }
+  },
+  {
+    "name": "originalScore",
+    "class": "org.apache.solr.ltr.feature.OriginalScoreFeature"
+  }
+]
