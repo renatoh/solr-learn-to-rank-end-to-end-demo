@@ -13,12 +13,15 @@ import javax.net.ssl.X509TrustManager
 
 data class Signal(val searchTerm: String, val productCode: String)
 @Serializable
-data class WeightSearchTermProductCode(val searchTerm: String, val productCode: String, val weight: Double, val features: List<Feature>)
+data class WeightSearchTermProductCode(val searchTerm: String, val productCode: String, val weight: Double, val features: Map<String, Double>)
 @Serializable
 data class Feature(val name: String, val value: Double)
 
+data class SearchResult(val code : String, val features : Map<String, Double>)
 @Serializable
 data class Person(val gender: String, val name: String)
+
+private const val minWeight = 0.00001
 fun main() {
     val totalSignals = 1000 * 1000
     val rows = 30
@@ -28,59 +31,55 @@ fun main() {
         prettyPrint = true
     }
 
-    val searchResults: Map<String, List<Pair<String,String>>> = powerToolSearchTerms.associateWith { searchTerm ->
+    val searchResults: Map<String, List<SearchResult>> = powerToolSearchTerms.associateWith { searchTerm ->
         val solrQuery = getPowerToolsSearchQuery(searchTerm, rows)
         val jsonString = httpGet(solrQuery)
         val solrResponse = json.decodeFromString<SolrResponse>(jsonString,)
-        solrResponse.response.docs.map { Pair(it.code_string,it.features) }
+        solrResponse.response.docs.map { SearchResult(it.code_string,parseFeatures(it.features))}
     }
     println("total search result:" + searchResults.values.sumOf { it.size })
 
-    searchResults.entries.forEach { println(it.key +"->"+it.value.map { it.first }) }
+    searchResults.entries.forEach { println(it.key +"->"+it.value.map { it.code }) }
 
-    val allWeights: List<WeightSearchTermProductCode> = searchResults.entries.flatMap { (key, value) ->
-        value.map { searchResult ->
-            val weight = signalWeights.get(key)?.get(searchResult.first) ?: 0.5
-            WeightSearchTermProductCode(key, searchResult.first, weight, parseFeatures(searchResult.second))
+    val allSearchResults = searchResults.values.flatten()
+    
+    val aggregatedMaxFeatures: Map<String, Double> = allSearchResults.fold(mutableMapOf()) { maxFeatures, result ->
+        for ((key, value) in result.features) {
+            maxFeatures[key] = maxOf(maxFeatures[key] ?:minWeight, value)
         }
+        maxFeatures
     }
 
-    val sumOfAllWeights = allWeights.sumOf { it.weight }
+    println("Aggregated max features: $aggregatedMaxFeatures")
     
+    val allWeights: List<WeightSearchTermProductCode> = searchResults.entries.flatMap { (key, value) ->
+        value.map { searchResult ->
+            val weight = calcWeightFromFeatures(searchResult.features, aggregatedMaxFeatures)
+            WeightSearchTermProductCode(key, searchResult.code, weight, searchResult.features)
+        }
+    }
     val allWeightsJson = json.encodeToString(allWeights)
     println(allWeightsJson)
     
-    val signalNumberMultiplier = (totalSignals / sumOfAllWeights).toDouble()
-    
-/*    allWeights.forEach {
-        println("searchTerm: ${it.searchTerm}, productCode: ${it.productCode}, weight: ${it.weight}, features: ${it.features}")
-    }*/
-    
-    
     println("Number of all weights:${allWeights.size}")
 
-/*    val allSignals = allWeights.flatMap { weightSearchTermProduct ->
-        val numberOfSignals = (weightSearchTermProduct.weight * signalNumberMultiplier).roundToInt()
-        (0 until numberOfSignals).map { i ->
-            Signal(weightSearchTermProduct.searchTerm, weightSearchTermProduct.productCode)
-        }
-    }.shuffled()*/
+}
 
-//    println("total signals: " + allSignals.size)
+fun calcWeightFromFeatures(features: Map<String, Double>, aggregatedMaxFeatures: Map<String, Double>): Double {
+
+    fun normalizeFeature(featureName : String): Double = (features[featureName] ?: minWeight) / (aggregatedMaxFeatures[featureName] ?: minWeight)
+    
+    return    normalizeFeature("categoryNameMatch") + 1.5* normalizeFeature("nameMatch") + 
+            2 * normalizeFeature("priceFeature") + 2 * normalizeFeature("originalScore")
 }
 
 //parse features string categoryNameMatch=0.27647737,nameMatch=0.77347434,priceFeature=81.0,originalScore=135.35802
-fun parseFeatures(features: String): List<Feature> {
-    return features.split(",").map { feature ->
+fun parseFeatures(features: String): Map<String, Double> {
+    return  features.split(",").associate { feature ->
         val parts = feature.split("=")
-        if (parts.size == 2) {
-            Feature(parts[0], parts[1].toDouble())
-        } else {
-            throw IllegalArgumentException("Invalid feature format: $feature")
-        }
+            parts[0] to parts[1].toDouble()
     }
 }
-
 
 fun httpGet(url: String): String {
 
@@ -258,7 +257,7 @@ val signalWeightsElectronics = mapOf(
     )
 )
 
-val signalWeights = mapOf(
+val signalWeightsForTerms = mapOf(
     "drill" to mapOf(
         "3887483" to 0.15,
         "3887477" to 0.2,
@@ -283,15 +282,25 @@ val signalWeights = mapOf(
     ),
     "footware" to mapOf(
         "88117000" to 0.9,
-        "33031000" to 0.95,
+        "88117000" to 0.95,
         "3881021" to 0.3,
     ),
     "grinder" to mapOf(
         "3887530" to 0.1,
         "3881023" to 0.8,
-        "4567180" to 0.9,
+        "88117000" to 0.9,
     )
 )
+
+val signalWeightsForProducts = mapOf(
+    0.25 to setOf("3887483","3887477","2116274", "3887530", "3881021", "3881065", "3887127","3942849","4567180","4567188","4567194","4567192", 
+        "3921095","3881027","3881023","3887121", "3887120", "3887119","4567162","693923","4567133","88117000","3756515", "3880502" , "3881041"),
+    0.7 to setOf("88117000", "88117000", "88117000", "3881075","3883696","3881022", "3864748", "3887506", "3881382",
+        "4567188","3881017","3887124", "3887123", "3887122","4567176","2116274",
+        "4567133","50500000","4567223", "4567193", "4567191","3715400","3880500")
+)
+
+
 
 
 
