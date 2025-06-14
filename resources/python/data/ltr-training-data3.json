@@ -1,0 +1,5777 @@
+[
+  {
+    "searchTerm": "drill",
+    "productCode": "3887529",
+    "weight": 1.3737822373499675,
+    "features": {
+      "categoryNameMatch": 0.27647737,
+      "nameMatch": 0.77347434,
+      "priceFeature": 81.0,
+      "originalScore": 135.35802
+    }
+  },
+  {
+    "searchTerm": "drill",
+    "productCode": "3887483",
+    "weight": 1.4540574667077657,
+    "features": {
+      "categoryNameMatch": 0.27647737,
+      "nameMatch": 0.77347434,
+      "priceFeature": 116.0,
+      "originalScore": 135.35802
+    }
+  },
+  {
+    "searchTerm": "drill",
+    "productCode": "3887477",
+    "weight": 1.7705712281756556,
+    "features": {
+      "categoryNameMatch": 0.27647737,
+      "nameMatch": 0.77347434,
+      "priceFeature": 254.0,
+      "originalScore": 135.35802
+    }
+  },
+  {
+    "searchTerm": "drill",
+    "productCode": "3887475",
+    "weight": 1.26139691624905,
+    "features": {
+      "categoryNameMatch": 0.27647737,
+      "nameMatch": 0.77347434,
+      "priceFeature": 32.0,
+      "originalScore": 135.35802
+    }
+  },
+  {
+    "searchTerm": "drill",
+    "productCode": "3884646",
+    "weight": 1.3485528795518023,
+    "features": {
+      "categoryNameMatch": 0.27647737,
+      "nameMatch": 0.77347434,
+      "priceFeature": 70.0,
+      "originalScore": 135.35802
+    }
+  },
+  {
+    "searchTerm": "drill",
+    "productCode": "3884645",
+    "weight": 1.309562053863729,
+    "features": {
+      "categoryNameMatch": 0.27647737,
+      "nameMatch": 0.77347434,
+      "priceFeature": 53.0,
+      "originalScore": 135.35802
+    }
+  },
+  {
+    "searchTerm": "drill",
+    "productCode": "3884636",
+    "weight": 1.254516182304096,
+    "features": {
+      "categoryNameMatch": 0.27647737,
+      "nameMatch": 0.77347434,
+      "priceFeature": 29.0,
+      "originalScore": 135.35802
+    }
+  },
+  {
+    "searchTerm": "drill",
+    "productCode": "3883696",
+    "weight": 1.3003877419371235,
+    "features": {
+      "categoryNameMatch": 0.27647737,
+      "nameMatch": 0.77347434,
+      "priceFeature": 49.0,
+      "originalScore": 135.35802
+    }
+  },
+  {
+    "searchTerm": "drill",
+    "productCode": "3883690",
+    "weight": 1.2568097602857473,
+    "features": {
+      "categoryNameMatch": 0.27647737,
+      "nameMatch": 0.77347434,
+      "priceFeature": 30.0,
+      "originalScore": 135.35802
+    }
+  },
+  {
+    "searchTerm": "drill",
+    "productCode": "3881427",
+    "weight": 1.2476354483591416,
+    "features": {
+      "categoryNameMatch": 0.27647737,
+      "nameMatch": 0.77347434,
+      "priceFeature": 26.0,
+      "originalScore": 135.35802
+    }
+  },
+  {
+    "searchTerm": "drill",
+    "productCode": "3920608",
+    "weight": 1.3048057763015573,
+    "features": {
+      "categoryNameMatch": 0.27647737,
+      "nameMatch": 0.68800837,
+      "priceFeature": 102.0,
+      "originalScore": 120.401474
+    }
+  },
+  {
+    "searchTerm": "drill",
+    "productCode": "3884633",
+    "weight": 1.1855397212556857,
+    "features": {
+      "categoryNameMatch": 0.27647737,
+      "nameMatch": 0.68800837,
+      "priceFeature": 50.0,
+      "originalScore": 120.401474
+    }
+  },
+  {
+    "searchTerm": "drill",
+    "productCode": "3881417",
+    "weight": 1.229117702907062,
+    "features": {
+      "categoryNameMatch": 0.27647737,
+      "nameMatch": 0.68800837,
+      "priceFeature": 69.0,
+      "originalScore": 120.401474
+    }
+  },
+  {
+    "searchTerm": "drill",
+    "productCode": "3881414",
+    "weight": 1.2061819230905482,
+    "features": {
+      "categoryNameMatch": 0.27647737,
+      "nameMatch": 0.68800837,
+      "priceFeature": 59.0,
+      "originalScore": 120.401474
+    }
+  },
+  {
+    "searchTerm": "drill",
+    "productCode": "3881389",
+    "weight": 1.1855397212556857,
+    "features": {
+      "categoryNameMatch": 0.27647737,
+      "nameMatch": 0.68800837,
+      "priceFeature": 50.0,
+      "originalScore": 120.401474
+    }
+  },
+  {
+    "searchTerm": "drill",
+    "productCode": "3881075",
+    "weight": 1.1855397212556857,
+    "features": {
+      "categoryNameMatch": 0.27647737,
+      "nameMatch": 0.68800837,
+      "priceFeature": 50.0,
+      "originalScore": 120.401474
+    }
+  },
+  {
+    "searchTerm": "drill",
+    "productCode": "3881072",
+    "weight": 1.3070993542832086,
+    "features": {
+      "categoryNameMatch": 0.27647737,
+      "nameMatch": 0.68800837,
+      "priceFeature": 103.0,
+      "originalScore": 120.401474
+    }
+  },
+  {
+    "searchTerm": "drill",
+    "productCode": "3881065",
+    "weight": 1.2038883451088966,
+    "features": {
+      "categoryNameMatch": 0.27647737,
+      "nameMatch": 0.68800837,
+      "priceFeature": 58.0,
+      "originalScore": 120.401474
+    }
+  },
+  {
+    "searchTerm": "drill",
+    "productCode": "3881063",
+    "weight": 1.1717782533657775,
+    "features": {
+      "categoryNameMatch": 0.27647737,
+      "nameMatch": 0.68800837,
+      "priceFeature": 44.0,
+      "originalScore": 120.401474
+    }
+  },
+  {
+    "searchTerm": "drill",
+    "productCode": "3881062",
+    "weight": 1.1855397212556857,
+    "features": {
+      "categoryNameMatch": 0.27647737,
+      "nameMatch": 0.68800837,
+      "priceFeature": 50.0,
+      "originalScore": 120.401474
+    }
+  },
+  {
+    "searchTerm": "drill",
+    "productCode": "3881061",
+    "weight": 1.199301189145594,
+    "features": {
+      "categoryNameMatch": 0.27647737,
+      "nameMatch": 0.68800837,
+      "priceFeature": 56.0,
+      "originalScore": 120.401474
+    }
+  },
+  {
+    "searchTerm": "drill",
+    "productCode": "3881060",
+    "weight": 1.2038883451088966,
+    "features": {
+      "categoryNameMatch": 0.27647737,
+      "nameMatch": 0.68800837,
+      "priceFeature": 58.0,
+      "originalScore": 120.401474
+    }
+  },
+  {
+    "searchTerm": "drill",
+    "productCode": "3881058",
+    "weight": 1.1213195377694474,
+    "features": {
+      "categoryNameMatch": 0.27647737,
+      "nameMatch": 0.68800837,
+      "priceFeature": 22.0,
+      "originalScore": 120.401474
+    }
+  },
+  {
+    "searchTerm": "drill",
+    "productCode": "3881043",
+    "weight": 1.137374583641007,
+    "features": {
+      "categoryNameMatch": 0.27647737,
+      "nameMatch": 0.68800837,
+      "priceFeature": 29.0,
+      "originalScore": 120.401474
+    }
+  },
+  {
+    "searchTerm": "drill",
+    "productCode": "3881038",
+    "weight": 1.2428791707969702,
+    "features": {
+      "categoryNameMatch": 0.27647737,
+      "nameMatch": 0.68800837,
+      "priceFeature": 75.0,
+      "originalScore": 120.401474
+    }
+  },
+  {
+    "searchTerm": "drill",
+    "productCode": "3881037",
+    "weight": 1.2061819230905482,
+    "features": {
+      "categoryNameMatch": 0.27647737,
+      "nameMatch": 0.68800837,
+      "priceFeature": 59.0,
+      "originalScore": 120.401474
+    }
+  },
+  {
+    "searchTerm": "drill",
+    "productCode": "3881382",
+    "weight": 1.137581241034697,
+    "features": {
+      "categoryNameMatch": 0.27647737,
+      "nameMatch": 0.6195504,
+      "priceFeature": 70.0,
+      "originalScore": 108.42133
+    }
+  },
+  {
+    "searchTerm": "drill",
+    "productCode": "3881066",
+    "weight": 1.1651041768145134,
+    "features": {
+      "categoryNameMatch": 0.27647737,
+      "nameMatch": 0.6195504,
+      "priceFeature": 82.0,
+      "originalScore": 108.42133
+    }
+  },
+  {
+    "searchTerm": "drill",
+    "productCode": "3881041",
+    "weight": 1.1582234428695592,
+    "features": {
+      "categoryNameMatch": 0.27647737,
+      "nameMatch": 0.6195504,
+      "priceFeature": 79.0,
+      "originalScore": 108.42133
+    }
+  },
+  {
+    "searchTerm": "drill",
+    "productCode": "3881033",
+    "weight": 1.0389573878236877,
+    "features": {
+      "categoryNameMatch": 0.27647737,
+      "nameMatch": 0.6195504,
+      "priceFeature": 27.0,
+      "originalScore": 108.42133
+    }
+  },
+  {
+    "searchTerm": "grinder",
+    "productCode": "3887530",
+    "weight": 2.9269579203582707,
+    "features": {
+      "categoryNameMatch": 1.2308053,
+      "nameMatch": 1.673352,
+      "priceFeature": 28.0,
+      "originalScore": 292.8366
+    }
+  },
+  {
+    "searchTerm": "grinder",
+    "productCode": "3881023",
+    "weight": 2.4476013071338834,
+    "features": {
+      "categoryNameMatch": 1.2308053,
+      "nameMatch": 1.3403494,
+      "priceFeature": 18.0,
+      "originalScore": 234.56116
+    }
+  },
+  {
+    "searchTerm": "grinder",
+    "productCode": "3881022",
+    "weight": 2.4476013071338834,
+    "features": {
+      "categoryNameMatch": 1.2308053,
+      "nameMatch": 1.3403494,
+      "priceFeature": 18.0,
+      "originalScore": 234.56116
+    }
+  },
+  {
+    "searchTerm": "grinder",
+    "productCode": "3881021",
+    "weight": 2.4544820410788377,
+    "features": {
+      "categoryNameMatch": 1.2308053,
+      "nameMatch": 1.3403494,
+      "priceFeature": 21.0,
+      "originalScore": 234.56116
+    }
+  },
+  {
+    "searchTerm": "grinder",
+    "productCode": "3881020",
+    "weight": 2.4751242429137,
+    "features": {
+      "categoryNameMatch": 1.2308053,
+      "nameMatch": 1.3403494,
+      "priceFeature": 30.0,
+      "originalScore": 234.56116
+    }
+  },
+  {
+    "searchTerm": "grinder",
+    "productCode": "3881018",
+    "weight": 2.5324636924549844,
+    "features": {
+      "categoryNameMatch": 1.2308053,
+      "nameMatch": 1.3403494,
+      "priceFeature": 55.0,
+      "originalScore": 234.56116
+    }
+  },
+  {
+    "searchTerm": "grinder",
+    "productCode": "3881017",
+    "weight": 2.4751242429137,
+    "features": {
+      "categoryNameMatch": 1.2308053,
+      "nameMatch": 1.3403494,
+      "priceFeature": 30.0,
+      "originalScore": 234.56116
+    }
+  },
+  {
+    "searchTerm": "grinder",
+    "productCode": "3881016",
+    "weight": 2.504940756675168,
+    "features": {
+      "categoryNameMatch": 1.2308053,
+      "nameMatch": 1.3403494,
+      "priceFeature": 43.0,
+      "originalScore": 234.56116
+    }
+  },
+  {
+    "searchTerm": "grinder",
+    "productCode": "4567181",
+    "weight": 2.0586062333360093,
+    "features": {
+      "categoryNameMatch": 1.2308053,
+      "nameMatch": 0.0,
+      "priceFeature": 210.0,
+      "originalScore": 223.20111
+    }
+  },
+  {
+    "searchTerm": "grinder",
+    "productCode": "4567223",
+    "weight": 1.2494833425508645,
+    "features": {
+      "categoryNameMatch": 1.2308053,
+      "nameMatch": 0.0,
+      "priceFeature": 127.0,
+      "originalScore": 86.15637
+    }
+  },
+  {
+    "searchTerm": "grinder",
+    "productCode": "4567189",
+    "weight": 1.3664558196150847,
+    "features": {
+      "categoryNameMatch": 1.2308053,
+      "nameMatch": 0.0,
+      "priceFeature": 178.0,
+      "originalScore": 86.15637
+    }
+  },
+  {
+    "searchTerm": "grinder",
+    "productCode": "4567182",
+    "weight": 1.3182906820004057,
+    "features": {
+      "categoryNameMatch": 1.2308053,
+      "nameMatch": 0.0,
+      "priceFeature": 157.0,
+      "originalScore": 86.15637
+    }
+  },
+  {
+    "searchTerm": "grinder",
+    "productCode": "4567180",
+    "weight": 1.2563640764958186,
+    "features": {
+      "categoryNameMatch": 1.2308053,
+      "nameMatch": 0.0,
+      "priceFeature": 130.0,
+      "originalScore": 86.15637
+    }
+  },
+  {
+    "searchTerm": "grinder",
+    "productCode": "4567131",
+    "weight": 1.0361805902572865,
+    "features": {
+      "categoryNameMatch": 1.2308053,
+      "nameMatch": 0.0,
+      "priceFeature": 34.0,
+      "originalScore": 86.15637
+    }
+  },
+  {
+    "searchTerm": "grinder",
+    "productCode": "4567130",
+    "weight": 1.1279237095233414,
+    "features": {
+      "categoryNameMatch": 1.2308053,
+      "nameMatch": 0.0,
+      "priceFeature": 74.0,
+      "originalScore": 86.15637
+    }
+  },
+  {
+    "searchTerm": "grinder",
+    "productCode": "3887127",
+    "weight": 1.2311347186976533,
+    "features": {
+      "categoryNameMatch": 1.2308053,
+      "nameMatch": 0.0,
+      "priceFeature": 119.0,
+      "originalScore": 86.15637
+    }
+  },
+  {
+    "searchTerm": "grinder",
+    "productCode": "3887124",
+    "weight": 1.0981071957618735,
+    "features": {
+      "categoryNameMatch": 1.2308053,
+      "nameMatch": 0.0,
+      "priceFeature": 61.0,
+      "originalScore": 86.15637
+    }
+  },
+  {
+    "searchTerm": "Nail",
+    "productCode": "4491784",
+    "weight": 1.1161841698898374,
+    "features": {
+      "categoryNameMatch": 1.3412776,
+      "nameMatch": 0.0,
+      "priceFeature": 37.0,
+      "originalScore": 91.03641
+    }
+  },
+  {
+    "searchTerm": "Nail",
+    "productCode": "3942853",
+    "weight": 1.0462300414494703,
+    "features": {
+      "categoryNameMatch": 1.3412776,
+      "nameMatch": 0.0,
+      "priceFeature": 6.5,
+      "originalScore": 91.03641
+    }
+  },
+  {
+    "searchTerm": "Nail",
+    "productCode": "3942849",
+    "weight": 1.0519639864035988,
+    "features": {
+      "categoryNameMatch": 1.3412776,
+      "nameMatch": 0.0,
+      "priceFeature": 9.0,
+      "originalScore": 91.03641
+    }
+  },
+  {
+    "searchTerm": "Nail",
+    "productCode": "3942841",
+    "weight": 1.0496704084219475,
+    "features": {
+      "categoryNameMatch": 1.3412776,
+      "nameMatch": 0.0,
+      "priceFeature": 8.0,
+      "originalScore": 91.03641
+    }
+  },
+  {
+    "searchTerm": "Nail",
+    "productCode": "3942829",
+    "weight": 1.0519639864035988,
+    "features": {
+      "categoryNameMatch": 1.3412776,
+      "nameMatch": 0.0,
+      "priceFeature": 9.0,
+      "originalScore": 91.03641
+    }
+  },
+  {
+    "searchTerm": "Nail",
+    "productCode": "3942823",
+    "weight": 1.058844720348553,
+    "features": {
+      "categoryNameMatch": 1.3412776,
+      "nameMatch": 0.0,
+      "priceFeature": 12.0,
+      "originalScore": 91.03641
+    }
+  },
+  {
+    "searchTerm": "Nail",
+    "productCode": "3942767",
+    "weight": 1.05425756438525,
+    "features": {
+      "categoryNameMatch": 1.3412776,
+      "nameMatch": 0.0,
+      "priceFeature": 10.0,
+      "originalScore": 91.03641
+    }
+  },
+  {
+    "searchTerm": "Nail",
+    "productCode": "3865362",
+    "weight": 1.0565511423669016,
+    "features": {
+      "categoryNameMatch": 1.3412776,
+      "nameMatch": 0.0,
+      "priceFeature": 11.0,
+      "originalScore": 91.03641
+    }
+  },
+  {
+    "searchTerm": "Nail",
+    "productCode": "3887530",
+    "weight": 0.1586598217215936,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 28.0,
+      "originalScore": 20.9169
+    }
+  },
+  {
+    "searchTerm": "Nail",
+    "productCode": "3881023",
+    "weight": 0.11693024281328857,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 18.0,
+      "originalScore": 16.754368
+    }
+  },
+  {
+    "searchTerm": "Nail",
+    "productCode": "3881022",
+    "weight": 0.11693024281328857,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 18.0,
+      "originalScore": 16.754368
+    }
+  },
+  {
+    "searchTerm": "Nail",
+    "productCode": "3881021",
+    "weight": 0.1238109767582427,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 21.0,
+      "originalScore": 16.754368
+    }
+  },
+  {
+    "searchTerm": "Nail",
+    "productCode": "3881020",
+    "weight": 0.14445317859310508,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 30.0,
+      "originalScore": 16.754368
+    }
+  },
+  {
+    "searchTerm": "Nail",
+    "productCode": "3881018",
+    "weight": 0.20179262813438947,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 55.0,
+      "originalScore": 16.754368
+    }
+  },
+  {
+    "searchTerm": "Nail",
+    "productCode": "3881017",
+    "weight": 0.14445317859310508,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 30.0,
+      "originalScore": 16.754368
+    }
+  },
+  {
+    "searchTerm": "Nail",
+    "productCode": "3881016",
+    "weight": 0.17426969235457296,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 43.0,
+      "originalScore": 16.754368
+    }
+  },
+  {
+    "searchTerm": "Nail",
+    "productCode": "3865361",
+    "weight": 0.10775593088668306,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 14.0,
+      "originalScore": 16.754368
+    }
+  },
+  {
+    "searchTerm": "Nail",
+    "productCode": "3864748",
+    "weight": 0.17885684831787574,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 45.0,
+      "originalScore": 16.754368
+    }
+  },
+  {
+    "searchTerm": "Nail",
+    "productCode": "1128763",
+    "weight": 0.09978784648602869,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 16.0,
+      "originalScore": 13.973579
+    }
+  },
+  {
+    "searchTerm": "Nail",
+    "productCode": "3887529",
+    "weight": 0.230071058246303,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 81.0,
+      "originalScore": 9.809816
+    }
+  },
+  {
+    "searchTerm": "Nail",
+    "productCode": "3887524",
+    "weight": 0.15667656283345896,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 49.0,
+      "originalScore": 9.809816
+    }
+  },
+  {
+    "searchTerm": "Nail",
+    "productCode": "3887514",
+    "weight": 0.2553004160444681,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 92.0,
+      "originalScore": 9.809816
+    }
+  },
+  {
+    "searchTerm": "Nail",
+    "productCode": "3887513",
+    "weight": 0.31952059953070666,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 120.0,
+      "originalScore": 9.809816
+    }
+  },
+  {
+    "searchTerm": "Nail",
+    "productCode": "3887506",
+    "weight": 0.2713554619160278,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 99.0,
+      "originalScore": 9.809816
+    }
+  },
+  {
+    "searchTerm": "Nail",
+    "productCode": "3887499",
+    "weight": 0.12456647109033969,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 35.0,
+      "originalScore": 9.809816
+    }
+  },
+  {
+    "searchTerm": "Nail",
+    "productCode": "3887493",
+    "weight": 0.19796096650318373,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 67.0,
+      "originalScore": 9.809816
+    }
+  },
+  {
+    "searchTerm": "Nail",
+    "productCode": "3887491",
+    "weight": 0.38603436099859656,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 149.0,
+      "originalScore": 9.809816
+    }
+  },
+  {
+    "searchTerm": "Nail",
+    "productCode": "3887483",
+    "weight": 0.31034628760410116,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 116.0,
+      "originalScore": 9.809816
+    }
+  },
+  {
+    "searchTerm": "Nail",
+    "productCode": "3887477",
+    "weight": 0.626860049071991,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 254.0,
+      "originalScore": 9.809816
+    }
+  },
+  {
+    "searchTerm": "Nail",
+    "productCode": "3887475",
+    "weight": 0.11768573714538558,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 32.0,
+      "originalScore": 9.809816
+    }
+  },
+  {
+    "searchTerm": "Hammer",
+    "productCode": "3887514",
+    "weight": 2.115308016703039,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 1.3893678,
+      "priceFeature": 92.0,
+      "originalScore": 243.13934
+    }
+  },
+  {
+    "searchTerm": "Hammer",
+    "productCode": "3887513",
+    "weight": 2.1795282001892775,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 1.3893678,
+      "priceFeature": 120.0,
+      "originalScore": 243.13934
+    }
+  },
+  {
+    "searchTerm": "Hammer",
+    "productCode": "3887506",
+    "weight": 2.1313630625745987,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 1.3893678,
+      "priceFeature": 99.0,
+      "originalScore": 243.13934
+    }
+  },
+  {
+    "searchTerm": "Hammer",
+    "productCode": "3887499",
+    "weight": 1.9845740717489107,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 1.3893678,
+      "priceFeature": 35.0,
+      "originalScore": 243.13934
+    }
+  },
+  {
+    "searchTerm": "Hammer",
+    "productCode": "3887493",
+    "weight": 2.0579685671617547,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 1.3893678,
+      "priceFeature": 67.0,
+      "originalScore": 243.13934
+    }
+  },
+  {
+    "searchTerm": "Hammer",
+    "productCode": "3887529",
+    "weight": 1.8535223823005809,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 1.2167773,
+      "priceFeature": 81.0,
+      "originalScore": 212.93604
+    }
+  },
+  {
+    "searchTerm": "Hammer",
+    "productCode": "3887483",
+    "weight": 1.933797611658379,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 1.2167773,
+      "priceFeature": 116.0,
+      "originalScore": 212.93604
+    }
+  },
+  {
+    "searchTerm": "Hammer",
+    "productCode": "3887477",
+    "weight": 2.250311373126269,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 1.2167773,
+      "priceFeature": 254.0,
+      "originalScore": 212.93604
+    }
+  },
+  {
+    "searchTerm": "Hammer",
+    "productCode": "3887475",
+    "weight": 1.7411370611996635,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 1.2167773,
+      "priceFeature": 32.0,
+      "originalScore": 212.93604
+    }
+  },
+  {
+    "searchTerm": "Hammer",
+    "productCode": "3884646",
+    "weight": 1.8282930245024158,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 1.2167773,
+      "priceFeature": 70.0,
+      "originalScore": 212.93604
+    }
+  },
+  {
+    "searchTerm": "Hammer",
+    "productCode": "3884645",
+    "weight": 1.7893021988143425,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 1.2167773,
+      "priceFeature": 53.0,
+      "originalScore": 212.93604
+    }
+  },
+  {
+    "searchTerm": "Hammer",
+    "productCode": "3884636",
+    "weight": 1.7342563272547094,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 1.2167773,
+      "priceFeature": 29.0,
+      "originalScore": 212.93604
+    }
+  },
+  {
+    "searchTerm": "Hammer",
+    "productCode": "3883696",
+    "weight": 1.7801278868877368,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 1.2167773,
+      "priceFeature": 49.0,
+      "originalScore": 212.93604
+    }
+  },
+  {
+    "searchTerm": "Hammer",
+    "productCode": "3883690",
+    "weight": 1.7365499052363607,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 1.2167773,
+      "priceFeature": 30.0,
+      "originalScore": 212.93604
+    }
+  },
+  {
+    "searchTerm": "Hammer",
+    "productCode": "3881427",
+    "weight": 1.7273755933097552,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 1.2167773,
+      "priceFeature": 26.0,
+      "originalScore": 212.93604
+    }
+  },
+  {
+    "searchTerm": "Hammer",
+    "productCode": "3887122",
+    "weight": 1.1764279552152896,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 169.0,
+      "originalScore": 174.70978
+    }
+  },
+  {
+    "searchTerm": "Hammer",
+    "productCode": "3881382",
+    "weight": 1.4964067992520005,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.97463465,
+      "priceFeature": 70.0,
+      "originalScore": 170.56107
+    }
+  },
+  {
+    "searchTerm": "Hammer",
+    "productCode": "3880517",
+    "weight": 1.4826453313620922,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.97463465,
+      "priceFeature": 64.0,
+      "originalScore": 170.56107
+    }
+  },
+  {
+    "searchTerm": "Hammer",
+    "productCode": "3879438",
+    "weight": 1.5927370744813583,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.97463465,
+      "priceFeature": 112.0,
+      "originalScore": 170.56107
+    }
+  },
+  {
+    "searchTerm": "Hammer",
+    "productCode": "3879437",
+    "weight": 1.5170490010868627,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.97463465,
+      "priceFeature": 79.0,
+      "originalScore": 170.56107
+    }
+  },
+  {
+    "searchTerm": "Hammer",
+    "productCode": "3879434",
+    "weight": 1.4941132212703492,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.97463465,
+      "priceFeature": 69.0,
+      "originalScore": 170.56107
+    }
+  },
+  {
+    "searchTerm": "Hammer",
+    "productCode": "3887130",
+    "weight": 2.7141260061151957,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 872.0,
+      "originalScore": 158.16772
+    }
+  },
+  {
+    "searchTerm": "Hammer",
+    "productCode": "3879435",
+    "weight": 1.350286167560304,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.886433,
+      "priceFeature": 59.0,
+      "originalScore": 155.12576
+    }
+  },
+  {
+    "searchTerm": "Hammer",
+    "productCode": "3756515",
+    "weight": 1.0013855538371619,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 157.0,
+      "originalScore": 142.03653
+    }
+  },
+  {
+    "searchTerm": "Hammer",
+    "productCode": "3879440",
+    "weight": 0.6797856537697604,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 19.0,
+      "originalScore": 140.91003
+    }
+  },
+  {
+    "searchTerm": "Hammer",
+    "productCode": "3887129",
+    "weight": 2.7797047771834844,
+    "features": {
+      "categoryNameMatch": 1.9266045,
+      "nameMatch": 0.0,
+      "priceFeature": 558.0,
+      "originalScore": 134.86232
+    }
+  },
+  {
+    "searchTerm": "Hammer",
+    "productCode": "3793682",
+    "weight": 0.6594518642105589,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 28.0,
+      "originalScore": 131.83449
+    }
+  },
+  {
+    "searchTerm": "Hammer",
+    "productCode": "4567187",
+    "weight": 1.6303121278061932,
+    "features": {
+      "categoryNameMatch": 1.767117,
+      "nameMatch": 0.0,
+      "priceFeature": 111.0,
+      "originalScore": 123.69818
+    }
+  },
+  {
+    "searchTerm": "Hammer",
+    "productCode": "4567184",
+    "weight": 2.545449742485092,
+    "features": {
+      "categoryNameMatch": 1.767117,
+      "nameMatch": 0.0,
+      "priceFeature": 510.0,
+      "originalScore": 123.69818
+    }
+  },
+  {
+    "searchTerm": "Hammer",
+    "productCode": "4567183",
+    "weight": 2.2725139626685786,
+    "features": {
+      "categoryNameMatch": 1.767117,
+      "nameMatch": 0.0,
+      "priceFeature": 391.0,
+      "originalScore": 123.69818
+    }
+  },
+  {
+    "searchTerm": "Bosch",
+    "productCode": "4567196",
+    "weight": 0.6456012884987179,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 113.0,
+      "originalScore": 85.58752
+    }
+  },
+  {
+    "searchTerm": "Bosch",
+    "productCode": "4567189",
+    "weight": 0.7928268862056639,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 178.0,
+      "originalScore": 85.17623
+    }
+  },
+  {
+    "searchTerm": "Bosch",
+    "productCode": "4567188",
+    "weight": 0.49511898898613527,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 49.0,
+      "originalScore": 84.76951
+    }
+  },
+  {
+    "searchTerm": "Bosch",
+    "productCode": "4567223",
+    "weight": 0.6737448693830328,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 127.0,
+      "originalScore": 84.709
+    }
+  },
+  {
+    "searchTerm": "Bosch",
+    "productCode": "4567194",
+    "weight": 0.5246623005756934,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 62.0,
+      "originalScore": 84.709
+    }
+  },
+  {
+    "searchTerm": "Bosch",
+    "productCode": "4567193",
+    "weight": 0.7517265207591797,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 161.0,
+      "originalScore": 84.709
+    }
+  },
+  {
+    "searchTerm": "Bosch",
+    "productCode": "4567192",
+    "weight": 0.6829191813096382,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 131.0,
+      "originalScore": 84.709
+    }
+  },
+  {
+    "searchTerm": "Bosch",
+    "productCode": "4567191",
+    "weight": 0.7631944106674364,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 166.0,
+      "originalScore": 84.709
+    }
+  },
+  {
+    "searchTerm": "Bosch",
+    "productCode": "4567190",
+    "weight": 0.7448457868142255,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 158.0,
+      "originalScore": 84.709
+    }
+  },
+  {
+    "searchTerm": "Bosch",
+    "productCode": "4567187",
+    "weight": 0.6370476216766108,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 111.0,
+      "originalScore": 84.709
+    }
+  },
+  {
+    "searchTerm": "Bosch",
+    "productCode": "4567186",
+    "weight": 0.6966806491995465,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 137.0,
+      "originalScore": 84.709
+    }
+  },
+  {
+    "searchTerm": "Bosch",
+    "productCode": "4567185",
+    "weight": 0.6875063372729411,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 133.0,
+      "originalScore": 84.709
+    }
+  },
+  {
+    "searchTerm": "Bosch",
+    "productCode": "4567184",
+    "weight": 1.55218523635551,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 510.0,
+      "originalScore": 84.709
+    }
+  },
+  {
+    "searchTerm": "Bosch",
+    "productCode": "4567183",
+    "weight": 1.279249456538996,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 391.0,
+      "originalScore": 84.709
+    }
+  },
+  {
+    "searchTerm": "Bosch",
+    "productCode": "4567182",
+    "weight": 0.7425522088325741,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 157.0,
+      "originalScore": 84.709
+    }
+  },
+  {
+    "searchTerm": "Bosch",
+    "productCode": "4567181",
+    "weight": 0.864111841860097,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 210.0,
+      "originalScore": 84.709
+    }
+  },
+  {
+    "searchTerm": "Bosch",
+    "productCode": "4567180",
+    "weight": 0.6806256033279869,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 130.0,
+      "originalScore": 84.709
+    }
+  },
+  {
+    "searchTerm": "Bosch",
+    "productCode": "4567179",
+    "weight": 0.632460465713308,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 109.0,
+      "originalScore": 84.709
+    }
+  },
+  {
+    "searchTerm": "Bosch",
+    "productCode": "4567177",
+    "weight": 0.7333778969059686,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 153.0,
+      "originalScore": 84.709
+    }
+  },
+  {
+    "searchTerm": "Bosch",
+    "productCode": "4567176",
+    "weight": 0.9260384473646842,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 237.0,
+      "originalScore": 84.709
+    }
+  },
+  {
+    "searchTerm": "Bosch",
+    "productCode": "4567175",
+    "weight": 0.6691577134197301,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 125.0,
+      "originalScore": 84.709
+    }
+  },
+  {
+    "searchTerm": "Bosch",
+    "productCode": "4567174",
+    "weight": 0.6232861537867025,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 105.0,
+      "originalScore": 84.709
+    }
+  },
+  {
+    "searchTerm": "Bosch",
+    "productCode": "4567173",
+    "weight": 0.8549375299334916,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 206.0,
+      "originalScore": 84.709
+    }
+  },
+  {
+    "searchTerm": "Bosch",
+    "productCode": "4567167",
+    "weight": 1.0430109244289043,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 288.0,
+      "originalScore": 84.709
+    }
+  },
+  {
+    "searchTerm": "Bosch",
+    "productCode": "4567165",
+    "weight": 0.9466806491995465,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 246.0,
+      "originalScore": 84.709
+    }
+  },
+  {
+    "searchTerm": "Bosch",
+    "productCode": "4567163",
+    "weight": 0.7769558785573447,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 172.0,
+      "originalScore": 84.709
+    }
+  },
+  {
+    "searchTerm": "Bosch",
+    "productCode": "4567162",
+    "weight": 0.6760384473646842,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 128.0,
+      "originalScore": 84.709
+    }
+  },
+  {
+    "searchTerm": "Bosch",
+    "productCode": "4567134",
+    "weight": 0.5613595482821154,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 78.0,
+      "originalScore": 84.709
+    }
+  },
+  {
+    "searchTerm": "Bosch",
+    "productCode": "4567133",
+    "weight": 0.40998340149312457,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 12.0,
+      "originalScore": 84.709
+    }
+  },
+  {
+    "searchTerm": "Bosch",
+    "productCode": "4567131",
+    "weight": 0.4604421170894548,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 34.0,
+      "originalScore": 84.709
+    }
+  },
+  {
+    "searchTerm": "Screwdriver",
+    "productCode": "CONF_SCREWDRIVER_S",
+    "weight": 2.527085971209082,
+    "features": {
+      "categoryNameMatch": 1.0047618,
+      "nameMatch": 1.3640294,
+      "priceFeature": 99.0,
+      "originalScore": 231.1272
+    }
+  },
+  {
+    "searchTerm": "Screwdriver",
+    "productCode": "321654DD",
+    "weight": 3.2094084945232586,
+    "features": {
+      "categoryNameMatch": 1.0047618,
+      "nameMatch": 1.1945865,
+      "priceFeature": 449.0,
+      "originalScore": 226.23941
+    }
+  },
+  {
+    "searchTerm": "Screwdriver",
+    "productCode": "3921095",
+    "weight": 2.3472590563885722,
+    "features": {
+      "categoryNameMatch": 1.0047618,
+      "nameMatch": 1.1945865,
+      "priceFeature": 120.0,
+      "originalScore": 202.41605
+    }
+  },
+  {
+    "searchTerm": "Screwdriver",
+    "productCode": "3920606",
+    "weight": 1.8114915968169545,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 1.1945865,
+      "priceFeature": 89.0,
+      "originalScore": 202.41605
+    }
+  },
+  {
+    "searchTerm": "Screwdriver",
+    "productCode": "3881339",
+    "weight": 2.1316627261133423,
+    "features": {
+      "categoryNameMatch": 1.0047618,
+      "nameMatch": 1.1945865,
+      "priceFeature": 26.0,
+      "originalScore": 202.41605
+    }
+  },
+  {
+    "searchTerm": "Screwdriver",
+    "productCode": "3881338",
+    "weight": 2.11102052427848,
+    "features": {
+      "categoryNameMatch": 1.0047618,
+      "nameMatch": 1.1945865,
+      "priceFeature": 17.0,
+      "originalScore": 202.41605
+    }
+  },
+  {
+    "searchTerm": "Screwdriver",
+    "productCode": "3881076",
+    "weight": 2.1156076802417827,
+    "features": {
+      "categoryNameMatch": 1.0047618,
+      "nameMatch": 1.1945865,
+      "priceFeature": 19.0,
+      "originalScore": 202.41605
+    }
+  },
+  {
+    "searchTerm": "Screwdriver",
+    "productCode": "3881074",
+    "weight": 2.152304927948205,
+    "features": {
+      "categoryNameMatch": 1.0047618,
+      "nameMatch": 1.1945865,
+      "priceFeature": 35.0,
+      "originalScore": 202.41605
+    }
+  },
+  {
+    "searchTerm": "Screwdriver",
+    "productCode": "3795253",
+    "weight": 2.0949654784069205,
+    "features": {
+      "categoryNameMatch": 1.0047618,
+      "nameMatch": 1.1945865,
+      "priceFeature": 10.0,
+      "originalScore": 202.41605
+    }
+  },
+  {
+    "searchTerm": "Screwdriver",
+    "productCode": "CONF_SCREWDRIVER_S-STD-4-9",
+    "weight": 2.16735801716306,
+    "features": {
+      "categoryNameMatch": 1.0047618,
+      "nameMatch": 1.0625893,
+      "priceFeature": 119.0,
+      "originalScore": 180.04985
+    }
+  },
+  {
+    "searchTerm": "Screwdriver",
+    "productCode": "CONF_SCREWDRIVER_S-STD-2-12",
+    "weight": 2.16735801716306,
+    "features": {
+      "categoryNameMatch": 1.0047618,
+      "nameMatch": 1.0625893,
+      "priceFeature": 119.0,
+      "originalScore": 180.04985
+    }
+  },
+  {
+    "searchTerm": "Screwdriver",
+    "productCode": "CONF_SCREWDRIVER_S-PROF-2-18",
+    "weight": 2.3967158153281978,
+    "features": {
+      "categoryNameMatch": 1.0047618,
+      "nameMatch": 1.0625893,
+      "priceFeature": 219.0,
+      "originalScore": 180.04985
+    }
+  },
+  {
+    "searchTerm": "Screwdriver",
+    "productCode": "CONF_SCREWDRIVER_S-PROF-2-12",
+    "weight": 2.3967158153281978,
+    "features": {
+      "categoryNameMatch": 1.0047618,
+      "nameMatch": 1.0625893,
+      "priceFeature": 219.0,
+      "originalScore": 180.04985
+    }
+  },
+  {
+    "searchTerm": "Screwdriver",
+    "productCode": "3865614",
+    "weight": 1.512324502545571,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 1.0625893,
+      "priceFeature": 36.0,
+      "originalScore": 180.04985
+    }
+  },
+  {
+    "searchTerm": "Screwdriver",
+    "productCode": "3881028",
+    "weight": 1.7957371358883352,
+    "features": {
+      "categoryNameMatch": 1.0047618,
+      "nameMatch": 0.9568598,
+      "priceFeature": 19.0,
+      "originalScore": 162.1346
+    }
+  },
+  {
+    "searchTerm": "Screwdriver",
+    "productCode": "3793710",
+    "weight": 1.785416034970904,
+    "features": {
+      "categoryNameMatch": 1.0047618,
+      "nameMatch": 0.9568598,
+      "priceFeature": 14.5,
+      "originalScore": 162.1346
+    }
+  },
+  {
+    "searchTerm": "Screwdriver",
+    "productCode": "3793687",
+    "weight": 1.830140805613106,
+    "features": {
+      "categoryNameMatch": 1.0047618,
+      "nameMatch": 0.9568598,
+      "priceFeature": 34.0,
+      "originalScore": 162.1346
+    }
+  },
+  {
+    "searchTerm": "Screwdriver",
+    "productCode": "3881027",
+    "weight": 1.6952777702862811,
+    "features": {
+      "categoryNameMatch": 1.0047618,
+      "nameMatch": 0.8702668,
+      "priceFeature": 26.0,
+      "originalScore": 147.46187
+    }
+  },
+  {
+    "searchTerm": "Screwdriver",
+    "productCode": "3788618",
+    "weight": 1.8604153849651803,
+    "features": {
+      "categoryNameMatch": 1.0047618,
+      "nameMatch": 0.8702668,
+      "priceFeature": 98.0,
+      "originalScore": 147.46187
+    }
+  },
+  {
+    "searchTerm": "Screwdriver",
+    "productCode": "3788612",
+    "weight": 1.663167678543162,
+    "features": {
+      "categoryNameMatch": 1.0047618,
+      "nameMatch": 0.8702668,
+      "priceFeature": 12.0,
+      "originalScore": 147.46187
+    }
+  },
+  {
+    "searchTerm": "Screwdriver",
+    "productCode": "3788611",
+    "weight": 1.6608741005615104,
+    "features": {
+      "categoryNameMatch": 1.0047618,
+      "nameMatch": 0.8702668,
+      "priceFeature": 11.0,
+      "originalScore": 147.46187
+    }
+  },
+  {
+    "searchTerm": "Screwdriver",
+    "productCode": "3793707",
+    "weight": 1.6347992985616626,
+    "features": {
+      "categoryNameMatch": 1.0047618,
+      "nameMatch": 0.7980461,
+      "priceFeature": 42.0,
+      "originalScore": 135.22449
+    }
+  },
+  {
+    "searchTerm": "Screwdriver",
+    "productCode": "5888798",
+    "weight": 0.7904884983056779,
+    "features": {
+      "categoryNameMatch": 1.0047618,
+      "nameMatch": 0.0,
+      "priceFeature": 8.0,
+      "originalScore": 68.100525
+    }
+  },
+  {
+    "searchTerm": "Screwdriver",
+    "productCode": "4600658",
+    "weight": 0.797369232250632,
+    "features": {
+      "categoryNameMatch": 1.0047618,
+      "nameMatch": 0.0,
+      "priceFeature": 11.0,
+      "originalScore": 68.100525
+    }
+  },
+  {
+    "searchTerm": "Screwdriver",
+    "productCode": "4598185",
+    "weight": 0.8180114340854945,
+    "features": {
+      "categoryNameMatch": 1.0047618,
+      "nameMatch": 0.0,
+      "priceFeature": 20.0,
+      "originalScore": 68.100525
+    }
+  },
+  {
+    "searchTerm": "Screwdriver",
+    "productCode": "4567188",
+    "weight": 0.8845251955533844,
+    "features": {
+      "categoryNameMatch": 1.0047618,
+      "nameMatch": 0.0,
+      "priceFeature": 49.0,
+      "originalScore": 68.100525
+    }
+  },
+  {
+    "searchTerm": "Screwdriver",
+    "productCode": "3884593",
+    "weight": 0.9533325350029256,
+    "features": {
+      "categoryNameMatch": 1.0047618,
+      "nameMatch": 0.0,
+      "priceFeature": 79.0,
+      "originalScore": 68.100525
+    }
+  },
+  {
+    "searchTerm": "Screwdriver",
+    "productCode": "3881014",
+    "weight": 0.9533325350029256,
+    "features": {
+      "categoryNameMatch": 1.0047618,
+      "nameMatch": 0.0,
+      "priceFeature": 79.0,
+      "originalScore": 68.100525
+    }
+  },
+  {
+    "searchTerm": "Screwdriver",
+    "productCode": "3794619",
+    "weight": 0.8524151038102652,
+    "features": {
+      "categoryNameMatch": 1.0047618,
+      "nameMatch": 0.0,
+      "priceFeature": 35.0,
+      "originalScore": 68.100525
+    }
+  },
+  {
+    "searchTerm": "Screwdriver",
+    "productCode": "3794609",
+    "weight": 0.8409472139020082,
+    "features": {
+      "categoryNameMatch": 1.0047618,
+      "nameMatch": 0.0,
+      "priceFeature": 30.0,
+      "originalScore": 68.100525
+    }
+  },
+  {
+    "searchTerm": "Safety",
+    "productCode": "26388000",
+    "weight": 3.069379178494988,
+    "features": {
+      "categoryNameMatch": 1.3169407,
+      "nameMatch": 1.6758173,
+      "priceFeature": 85.0,
+      "originalScore": 286.28546
+    }
+  },
+  {
+    "searchTerm": "Safety",
+    "productCode": "88117000",
+    "weight": 2.908904785224327,
+    "features": {
+      "categoryNameMatch": 1.3169407,
+      "nameMatch": 1.5367465,
+      "priceFeature": 97.0,
+      "originalScore": 262.52753
+    }
+  },
+  {
+    "searchTerm": "Safety",
+    "productCode": "3879438",
+    "weight": 0.9925164333192621,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 112.0,
+      "originalScore": 162.93178
+    }
+  },
+  {
+    "searchTerm": "Safety",
+    "productCode": "3881017",
+    "weight": 0.7139712207950071,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 30.0,
+      "originalScore": 142.89369
+    }
+  },
+  {
+    "searchTerm": "Safety",
+    "productCode": "3881029",
+    "weight": 0.7229446275855719,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 42.0,
+      "originalScore": 138.78526
+    }
+  },
+  {
+    "searchTerm": "Safety",
+    "productCode": "3881018",
+    "weight": 0.7390082045139916,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 55.0,
+      "originalScore": 135.7392
+    }
+  },
+  {
+    "searchTerm": "Safety",
+    "productCode": "3881016",
+    "weight": 0.7114852687341752,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 43.0,
+      "originalScore": 135.7392
+    }
+  },
+  {
+    "searchTerm": "Safety",
+    "productCode": "4567186",
+    "weight": 0.9103189684431698,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 137.0,
+      "originalScore": 132.02654
+    }
+  },
+  {
+    "searchTerm": "Safety",
+    "productCode": "89649000",
+    "weight": 1.2103006929277462,
+    "features": {
+      "categoryNameMatch": 1.3169407,
+      "nameMatch": 0.0,
+      "priceFeature": 85.0,
+      "originalScore": 89.990944
+    }
+  },
+  {
+    "searchTerm": "Safety",
+    "productCode": "88116000",
+    "weight": 1.2103006929277462,
+    "features": {
+      "categoryNameMatch": 1.3169407,
+      "nameMatch": 0.0,
+      "priceFeature": 85.0,
+      "originalScore": 89.990944
+    }
+  },
+  {
+    "searchTerm": "Safety",
+    "productCode": "61096000",
+    "weight": 1.2103006929277462,
+    "features": {
+      "categoryNameMatch": 1.3169407,
+      "nameMatch": 0.0,
+      "priceFeature": 85.0,
+      "originalScore": 89.990944
+    }
+  },
+  {
+    "searchTerm": "Safety",
+    "productCode": "52561000",
+    "weight": 1.2103006929277462,
+    "features": {
+      "categoryNameMatch": 1.3169407,
+      "nameMatch": 0.0,
+      "priceFeature": 85.0,
+      "originalScore": 89.990944
+    }
+  },
+  {
+    "searchTerm": "Safety",
+    "productCode": "50500000",
+    "weight": 1.2103006929277462,
+    "features": {
+      "categoryNameMatch": 1.3169407,
+      "nameMatch": 0.0,
+      "priceFeature": 85.0,
+      "originalScore": 89.990944
+    }
+  },
+  {
+    "searchTerm": "Safety",
+    "productCode": "49042000",
+    "weight": 1.2103006929277462,
+    "features": {
+      "categoryNameMatch": 1.3169407,
+      "nameMatch": 0.0,
+      "priceFeature": 85.0,
+      "originalScore": 89.990944
+    }
+  },
+  {
+    "searchTerm": "Safety",
+    "productCode": "47591000",
+    "weight": 1.2378236287075626,
+    "features": {
+      "categoryNameMatch": 1.3169407,
+      "nameMatch": 0.0,
+      "priceFeature": 97.0,
+      "originalScore": 89.990944
+    }
+  },
+  {
+    "searchTerm": "Safety",
+    "productCode": "47003000",
+    "weight": 1.2103006929277462,
+    "features": {
+      "categoryNameMatch": 1.3169407,
+      "nameMatch": 0.0,
+      "priceFeature": 85.0,
+      "originalScore": 89.990944
+    }
+  },
+  {
+    "searchTerm": "Safety",
+    "productCode": "40008000",
+    "weight": 1.2103006929277462,
+    "features": {
+      "categoryNameMatch": 1.3169407,
+      "nameMatch": 0.0,
+      "priceFeature": 85.0,
+      "originalScore": 89.990944
+    }
+  },
+  {
+    "searchTerm": "Safety",
+    "productCode": "33031000",
+    "weight": 1.2103006929277462,
+    "features": {
+      "categoryNameMatch": 1.3169407,
+      "nameMatch": 0.0,
+      "priceFeature": 85.0,
+      "originalScore": 89.990944
+    }
+  },
+  {
+    "searchTerm": "Safety",
+    "productCode": "26038000",
+    "weight": 1.2378236287075626,
+    "features": {
+      "categoryNameMatch": 1.3169407,
+      "nameMatch": 0.0,
+      "priceFeature": 97.0,
+      "originalScore": 89.990944
+    }
+  },
+  {
+    "searchTerm": "Safety",
+    "productCode": "26002000",
+    "weight": 1.2103006929277462,
+    "features": {
+      "categoryNameMatch": 1.3169407,
+      "nameMatch": 0.0,
+      "priceFeature": 85.0,
+      "originalScore": 89.990944
+    }
+  },
+  {
+    "searchTerm": "Safety",
+    "productCode": "3788618",
+    "weight": 0.6048974890988591,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 98.0,
+      "originalScore": 84.19214
+    }
+  },
+  {
+    "searchTerm": "Boot",
+    "productCode": "3788616",
+    "weight": 0.16846767808512436,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 34.0,
+      "originalScore": 20.041237
+    }
+  },
+  {
+    "searchTerm": "Boot",
+    "productCode": "2221933",
+    "weight": 0.0787319686691841,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 4.0,
+      "originalScore": 15.405931
+    }
+  },
+  {
+    "searchTerm": "Boot",
+    "productCode": "4491784",
+    "weight": 0.1457794307843172,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 37.0,
+      "originalScore": 13.492171
+    }
+  },
+  {
+    "searchTerm": "Boot",
+    "productCode": "3865362",
+    "weight": 0.07941530404546851,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 11.0,
+      "originalScore": 12.001338
+    }
+  },
+  {
+    "searchTerm": "Boot",
+    "productCode": "33031000",
+    "weight": 0.2468801902073552,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 85.0,
+      "originalScore": 11.500809
+    }
+  },
+  {
+    "searchTerm": "Boot",
+    "productCode": "3887524",
+    "weight": 0.161179671473244,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 49.0,
+      "originalScore": 10.807184
+    }
+  },
+  {
+    "searchTerm": "Boot",
+    "productCode": "3865361",
+    "weight": 0.08090444211544584,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 14.0,
+      "originalScore": 10.807184
+    }
+  },
+  {
+    "searchTerm": "Boot",
+    "productCode": "3794509",
+    "weight": 0.2965007723906752,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 108.0,
+      "originalScore": 10.807184
+    }
+  },
+  {
+    "searchTerm": "Boot",
+    "productCode": "1128762",
+    "weight": 0.31714297422553756,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 117.0,
+      "originalScore": 10.807184
+    }
+  },
+  {
+    "searchTerm": "Boot",
+    "productCode": "3864748",
+    "weight": 0.10398800585845658,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 45.0,
+      "originalScore": 0.17209259
+    }
+  },
+  {
+    "searchTerm": "Boot",
+    "productCode": "3092788",
+    "weight": 0.11774947374836484,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 51.0,
+      "originalScore": 0.17209259
+    }
+  },
+  {
+    "searchTerm": "Boot",
+    "productCode": "693923",
+    "weight": 0.09018459739424224,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 39.0,
+      "originalScore": 0.16280341
+    }
+  },
+  {
+    "searchTerm": "Boot",
+    "productCode": "3803058",
+    "weight": 0.0546341386786459,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 23.5,
+      "originalScore": 0.16280341
+    }
+  },
+  {
+    "searchTerm": "Boot",
+    "productCode": "2222485",
+    "weight": 0.023670835926352322,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 10.0,
+      "originalScore": 0.16280341
+    }
+  },
+  {
+    "searchTerm": "Boot",
+    "productCode": "2217258",
+    "weight": 0.011056157027269755,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 4.5,
+      "originalScore": 0.16280341
+    }
+  },
+  {
+    "searchTerm": "Boot",
+    "productCode": "1979039",
+    "weight": 0.04890019372451746,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 21.0,
+      "originalScore": 0.16280341
+    }
+  },
+  {
+    "searchTerm": "Boot",
+    "productCode": "1128763",
+    "weight": 0.03743230381626058,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 16.0,
+      "originalScore": 0.16280341
+    }
+  },
+  {
+    "searchTerm": "Boot",
+    "productCode": "CONF_SCREWDRIVER_S-STD-4-9",
+    "weight": 0.2735502995434849,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 119.0,
+      "originalScore": 0.13610649
+    }
+  },
+  {
+    "searchTerm": "Boot",
+    "productCode": "CONF_SCREWDRIVER_S-STD-2-12",
+    "weight": 0.2735502995434849,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 119.0,
+      "originalScore": 0.13610649
+    }
+  },
+  {
+    "searchTerm": "Boot",
+    "productCode": "CONF_SCREWDRIVER_S-PROF-2-18",
+    "weight": 0.5029080977086227,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 219.0,
+      "originalScore": 0.13610649
+    }
+  },
+  {
+    "searchTerm": "Boot",
+    "productCode": "CONF_SCREWDRIVER_S-PROF-2-12",
+    "weight": 0.5029080977086227,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 219.0,
+      "originalScore": 0.13610649
+    }
+  },
+  {
+    "searchTerm": "Boot",
+    "productCode": "CONF_SCREWDRIVER_S",
+    "weight": 0.22767873991045745,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 99.0,
+      "originalScore": 0.13610649
+    }
+  },
+  {
+    "searchTerm": "Boot",
+    "productCode": "5888798",
+    "weight": 0.018963143580182213,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 8.0,
+      "originalScore": 0.13610649
+    }
+  },
+  {
+    "searchTerm": "Boot",
+    "productCode": "4600658",
+    "weight": 0.025843877525136342,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 11.0,
+      "originalScore": 0.13610649
+    }
+  },
+  {
+    "searchTerm": "Boot",
+    "productCode": "4598185",
+    "weight": 0.04648607935999873,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 20.0,
+      "originalScore": 0.13610649
+    }
+  },
+  {
+    "searchTerm": "Boot",
+    "productCode": "4567188",
+    "weight": 0.11299984082788864,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 49.0,
+      "originalScore": 0.13610649
+    }
+  },
+  {
+    "searchTerm": "Boot",
+    "productCode": "4567177",
+    "weight": 0.35153195091963174,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 153.0,
+      "originalScore": 0.13610649
+    }
+  },
+  {
+    "searchTerm": "Boot",
+    "productCode": "4567176",
+    "weight": 0.5441925013783474,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 237.0,
+      "originalScore": 0.13610649
+    }
+  },
+  {
+    "searchTerm": "Boot",
+    "productCode": "4567175",
+    "weight": 0.2873117674333932,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 125.0,
+      "originalScore": 0.13610649
+    }
+  },
+  {
+    "searchTerm": "Boot",
+    "productCode": "4567174",
+    "weight": 0.2414402078003657,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 105.0,
+      "originalScore": 0.13610649
+    }
+  },
+  {
+    "searchTerm": "Sander",
+    "productCode": "3884600",
+    "weight": 2.8971000659247856,
+    "features": {
+      "categoryNameMatch": 1.5519904,
+      "nameMatch": 1.5465429,
+      "priceFeature": 26.0,
+      "originalScore": 270.64502
+    }
+  },
+  {
+    "searchTerm": "Sander",
+    "productCode": "3884599",
+    "weight": 2.9544395154660696,
+    "features": {
+      "categoryNameMatch": 1.5519904,
+      "nameMatch": 1.5465429,
+      "priceFeature": 51.0,
+      "originalScore": 270.64502
+    }
+  },
+  {
+    "searchTerm": "Sander",
+    "productCode": "2116274",
+    "weight": 2.920035845741299,
+    "features": {
+      "categoryNameMatch": 1.5519904,
+      "nameMatch": 1.5465429,
+      "priceFeature": 36.0,
+      "originalScore": 270.64502
+    }
+  },
+  {
+    "searchTerm": "Sander",
+    "productCode": "4567177",
+    "weight": 1.5591633795846038,
+    "features": {
+      "categoryNameMatch": 1.5519904,
+      "nameMatch": 0.0,
+      "priceFeature": 153.0,
+      "originalScore": 108.63932
+    }
+  },
+  {
+    "searchTerm": "Sander",
+    "productCode": "4567175",
+    "weight": 1.4949431960983655,
+    "features": {
+      "categoryNameMatch": 1.5519904,
+      "nameMatch": 0.0,
+      "priceFeature": 125.0,
+      "originalScore": 108.63932
+    }
+  },
+  {
+    "searchTerm": "Sander",
+    "productCode": "4567174",
+    "weight": 1.4490716364653378,
+    "features": {
+      "categoryNameMatch": 1.5519904,
+      "nameMatch": 0.0,
+      "priceFeature": 105.0,
+      "originalScore": 108.63932
+    }
+  },
+  {
+    "searchTerm": "Sander",
+    "productCode": "4567173",
+    "weight": 1.6807230126121269,
+    "features": {
+      "categoryNameMatch": 1.5519904,
+      "nameMatch": 0.0,
+      "priceFeature": 206.0,
+      "originalScore": 108.63932
+    }
+  },
+  {
+    "searchTerm": "Sander",
+    "productCode": "4567133",
+    "weight": 1.2357688841717598,
+    "features": {
+      "categoryNameMatch": 1.5519904,
+      "nameMatch": 0.0,
+      "priceFeature": 12.0,
+      "originalScore": 108.63932
+    }
+  },
+  {
+    "searchTerm": "Sander",
+    "productCode": "3592865",
+    "weight": 1.3940257649057048,
+    "features": {
+      "categoryNameMatch": 1.5519904,
+      "nameMatch": 0.0,
+      "priceFeature": 81.0,
+      "originalScore": 108.63932
+    }
+  },
+  {
+    "searchTerm": "Sander",
+    "productCode": "2116283",
+    "weight": 1.35274136123598,
+    "features": {
+      "categoryNameMatch": 1.5519904,
+      "nameMatch": 0.0,
+      "priceFeature": 63.0,
+      "originalScore": 108.63932
+    }
+  },
+  {
+    "searchTerm": "Sander",
+    "productCode": "2116266",
+    "weight": 1.3917321869240533,
+    "features": {
+      "categoryNameMatch": 1.5519904,
+      "nameMatch": 0.0,
+      "priceFeature": 80.0,
+      "originalScore": 108.63932
+    }
+  },
+  {
+    "searchTerm": "Sander",
+    "productCode": "693923",
+    "weight": 0.2058266908552108,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 39.0,
+      "originalScore": 25.775715
+    }
+  },
+  {
+    "searchTerm": "Sander",
+    "productCode": "4567179",
+    "weight": 0.3648708353317817,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 109.0,
+      "originalScore": 25.44209
+    }
+  },
+  {
+    "searchTerm": "Tools",
+    "productCode": "4491784",
+    "weight": 2.9445425749419094,
+    "features": {
+      "categoryNameMatch": 0.021421295,
+      "nameMatch": 2.1228883,
+      "priceFeature": 37.0,
+      "originalScore": 358.2374
+    }
+  },
+  {
+    "searchTerm": "Tools",
+    "productCode": "3887524",
+    "weight": 2.406591482050375,
+    "features": {
+      "categoryNameMatch": 0.024967873,
+      "nameMatch": 1.7004266,
+      "priceFeature": 49.0,
+      "originalScore": 286.947
+    }
+  },
+  {
+    "searchTerm": "Tools",
+    "productCode": "1128762",
+    "weight": 2.566066187578759,
+    "features": {
+      "categoryNameMatch": 0.03256068,
+      "nameMatch": 1.7004266,
+      "priceFeature": 117.0,
+      "originalScore": 286.947
+    }
+  },
+  {
+    "searchTerm": "Tools",
+    "productCode": "3092788",
+    "weight": 0.42826055266716245,
+    "features": {
+      "categoryNameMatch": 0.034418516,
+      "nameMatch": 0.0,
+      "priceFeature": 51.0,
+      "originalScore": 65.41999
+    }
+  },
+  {
+    "searchTerm": "Tools",
+    "productCode": "3921101",
+    "weight": 0.5449345213630477,
+    "features": {
+      "categoryNameMatch": 0.024967873,
+      "nameMatch": 0.0,
+      "priceFeature": 106.0,
+      "originalScore": 64.289925
+    }
+  },
+  {
+    "searchTerm": "Tools",
+    "productCode": "3921097",
+    "weight": 0.4702257429616239,
+    "features": {
+      "categoryNameMatch": 0.024967873,
+      "nameMatch": 0.0,
+      "priceFeature": 79.0,
+      "originalScore": 61.458874
+    }
+  },
+  {
+    "searchTerm": "Tools",
+    "productCode": "3756515",
+    "weight": 0.6422284279387822,
+    "features": {
+      "categoryNameMatch": 0.024967873,
+      "nameMatch": 0.0,
+      "priceFeature": 157.0,
+      "originalScore": 59.93143
+    }
+  },
+  {
+    "searchTerm": "Tools",
+    "productCode": "3715400",
+    "weight": 0.4407120783013778,
+    "features": {
+      "categoryNameMatch": 0.024967873,
+      "nameMatch": 0.0,
+      "priceFeature": 70.0,
+      "originalScore": 59.493984
+    }
+  },
+  {
+    "searchTerm": "Tools",
+    "productCode": "3880502",
+    "weight": 0.5080783259486522,
+    "features": {
+      "categoryNameMatch": 0.024967873,
+      "nameMatch": 0.0,
+      "priceFeature": 103.0,
+      "originalScore": 57.65083
+    }
+  },
+  {
+    "searchTerm": "Tools",
+    "productCode": "3880500",
+    "weight": 0.957619610352322,
+    "features": {
+      "categoryNameMatch": 0.024967873,
+      "nameMatch": 0.0,
+      "priceFeature": 299.0,
+      "originalScore": 57.65083
+    }
+  },
+  {
+    "searchTerm": "Tools",
+    "productCode": "3881041",
+    "weight": 0.45037196368974486,
+    "features": {
+      "categoryNameMatch": 0.024967873,
+      "nameMatch": 0.0,
+      "priceFeature": 79.0,
+      "originalScore": 57.061573
+    }
+  },
+  {
+    "searchTerm": "Tools",
+    "productCode": "4567131",
+    "weight": 0.34619069625833643,
+    "features": {
+      "categoryNameMatch": 0.024967873,
+      "nameMatch": 0.0,
+      "priceFeature": 34.0,
+      "originalScore": 56.846676
+    }
+  },
+  {
+    "searchTerm": "Tools",
+    "productCode": "3880501",
+    "weight": 0.4314493496365844,
+    "features": {
+      "categoryNameMatch": 0.024967873,
+      "nameMatch": 0.0,
+      "priceFeature": 73.0,
+      "originalScore": 55.91846
+    }
+  },
+  {
+    "searchTerm": "Tools",
+    "productCode": "3879450",
+    "weight": 0.6722750377099789,
+    "features": {
+      "categoryNameMatch": 0.024967873,
+      "nameMatch": 0.0,
+      "priceFeature": 178.0,
+      "originalScore": 55.91846
+    }
+  },
+  {
+    "searchTerm": "Tools",
+    "productCode": "3879448",
+    "weight": 0.43374292761823574,
+    "features": {
+      "categoryNameMatch": 0.024967873,
+      "nameMatch": 0.0,
+      "priceFeature": 74.0,
+      "originalScore": 55.91846
+    }
+  },
+  {
+    "searchTerm": "Tools",
+    "productCode": "3879447",
+    "weight": 0.5759447624806211,
+    "features": {
+      "categoryNameMatch": 0.024967873,
+      "nameMatch": 0.0,
+      "priceFeature": 136.0,
+      "originalScore": 55.91846
+    }
+  },
+  {
+    "searchTerm": "Tools",
+    "productCode": "3880499",
+    "weight": 0.7955767394104596,
+    "features": {
+      "categoryNameMatch": 0.024967873,
+      "nameMatch": 0.0,
+      "priceFeature": 236.0,
+      "originalScore": 53.764343
+    }
+  },
+  {
+    "searchTerm": "Tools",
+    "productCode": "3879446",
+    "weight": 0.71300793207101,
+    "features": {
+      "categoryNameMatch": 0.024967873,
+      "nameMatch": 0.0,
+      "priceFeature": 200.0,
+      "originalScore": 53.764343
+    }
+  },
+  {
+    "searchTerm": "Tools",
+    "productCode": "3857735",
+    "weight": 0.4667279638570349,
+    "features": {
+      "categoryNameMatch": 0.024967873,
+      "nameMatch": 0.0,
+      "priceFeature": 94.0,
+      "originalScore": 53.064297
+    }
+  },
+  {
+    "searchTerm": "Tools",
+    "productCode": "3880508",
+    "weight": 0.8419492531986313,
+    "features": {
+      "categoryNameMatch": 0.024967873,
+      "nameMatch": 0.0,
+      "priceFeature": 262.0,
+      "originalScore": 50.827347
+    }
+  },
+  {
+    "searchTerm": "Tools",
+    "productCode": "3923111",
+    "weight": 0.392457497119184,
+    "features": {
+      "categoryNameMatch": 0.024967873,
+      "nameMatch": 0.0,
+      "priceFeature": 69.0,
+      "originalScore": 49.314342
+    }
+  },
+  {
+    "searchTerm": "Tools",
+    "productCode": "3923098",
+    "weight": 0.43832905675221157,
+    "features": {
+      "categoryNameMatch": 0.024967873,
+      "nameMatch": 0.0,
+      "priceFeature": 89.0,
+      "originalScore": 49.314342
+    }
+  },
+  {
+    "searchTerm": "Tools",
+    "productCode": "4567180",
+    "weight": 0.5229476520511255,
+    "features": {
+      "categoryNameMatch": 0.024967873,
+      "nameMatch": 0.0,
+      "priceFeature": 130.0,
+      "originalScore": 47.22838
+    }
+  },
+  {
+    "searchTerm": "Tools",
+    "productCode": "3778927",
+    "weight": 0.6676404539500393,
+    "features": {
+      "categoryNameMatch": 0.024967873,
+      "nameMatch": 0.0,
+      "priceFeature": 194.0,
+      "originalScore": 46.764107
+    }
+  },
+  {
+    "searchTerm": "Tools",
+    "productCode": "3778926",
+    "weight": 0.5116771511977458,
+    "features": {
+      "categoryNameMatch": 0.024967873,
+      "nameMatch": 0.0,
+      "priceFeature": 126.0,
+      "originalScore": 46.764107
+    }
+  },
+  {
+    "searchTerm": "Tools",
+    "productCode": "3774131",
+    "weight": 0.6699340319316907,
+    "features": {
+      "categoryNameMatch": 0.024967873,
+      "nameMatch": 0.0,
+      "priceFeature": 195.0,
+      "originalScore": 46.764107
+    }
+  },
+  {
+    "searchTerm": "Tools",
+    "productCode": "3758751",
+    "weight": 0.5781909126656357,
+    "features": {
+      "categoryNameMatch": 0.024967873,
+      "nameMatch": 0.0,
+      "priceFeature": 155.0,
+      "originalScore": 46.764107
+    }
+  },
+  {
+    "searchTerm": "Tools",
+    "productCode": "3756505",
+    "weight": 0.5644294447757274,
+    "features": {
+      "categoryNameMatch": 0.024967873,
+      "nameMatch": 0.0,
+      "priceFeature": 149.0,
+      "originalScore": 46.764107
+    }
+  },
+  {
+    "searchTerm": "Tools",
+    "productCode": "3755210",
+    "weight": 0.49332852734453475,
+    "features": {
+      "categoryNameMatch": 0.024967873,
+      "nameMatch": 0.0,
+      "priceFeature": 118.0,
+      "originalScore": 46.764107
+    }
+  },
+  {
+    "searchTerm": "Tools",
+    "productCode": "3857731",
+    "weight": 0.44894603279601597,
+    "features": {
+      "categoryNameMatch": 0.024967873,
+      "nameMatch": 0.0,
+      "priceFeature": 99.0,
+      "originalScore": 46.58592
+    }
+  },
+  {
+    "searchTerm": "Grinder",
+    "productCode": "3887530",
+    "weight": 2.9269579203582707,
+    "features": {
+      "categoryNameMatch": 1.2308053,
+      "nameMatch": 1.673352,
+      "priceFeature": 28.0,
+      "originalScore": 292.8366
+    }
+  },
+  {
+    "searchTerm": "Grinder",
+    "productCode": "3881023",
+    "weight": 2.4476013071338834,
+    "features": {
+      "categoryNameMatch": 1.2308053,
+      "nameMatch": 1.3403494,
+      "priceFeature": 18.0,
+      "originalScore": 234.56116
+    }
+  },
+  {
+    "searchTerm": "Grinder",
+    "productCode": "3881022",
+    "weight": 2.4476013071338834,
+    "features": {
+      "categoryNameMatch": 1.2308053,
+      "nameMatch": 1.3403494,
+      "priceFeature": 18.0,
+      "originalScore": 234.56116
+    }
+  },
+  {
+    "searchTerm": "Grinder",
+    "productCode": "3881021",
+    "weight": 2.4544820410788377,
+    "features": {
+      "categoryNameMatch": 1.2308053,
+      "nameMatch": 1.3403494,
+      "priceFeature": 21.0,
+      "originalScore": 234.56116
+    }
+  },
+  {
+    "searchTerm": "Grinder",
+    "productCode": "3881020",
+    "weight": 2.4751242429137,
+    "features": {
+      "categoryNameMatch": 1.2308053,
+      "nameMatch": 1.3403494,
+      "priceFeature": 30.0,
+      "originalScore": 234.56116
+    }
+  },
+  {
+    "searchTerm": "Grinder",
+    "productCode": "3881018",
+    "weight": 2.5324636924549844,
+    "features": {
+      "categoryNameMatch": 1.2308053,
+      "nameMatch": 1.3403494,
+      "priceFeature": 55.0,
+      "originalScore": 234.56116
+    }
+  },
+  {
+    "searchTerm": "Grinder",
+    "productCode": "3881017",
+    "weight": 2.4751242429137,
+    "features": {
+      "categoryNameMatch": 1.2308053,
+      "nameMatch": 1.3403494,
+      "priceFeature": 30.0,
+      "originalScore": 234.56116
+    }
+  },
+  {
+    "searchTerm": "Grinder",
+    "productCode": "3881016",
+    "weight": 2.504940756675168,
+    "features": {
+      "categoryNameMatch": 1.2308053,
+      "nameMatch": 1.3403494,
+      "priceFeature": 43.0,
+      "originalScore": 234.56116
+    }
+  },
+  {
+    "searchTerm": "Grinder",
+    "productCode": "4567181",
+    "weight": 2.0586062333360093,
+    "features": {
+      "categoryNameMatch": 1.2308053,
+      "nameMatch": 0.0,
+      "priceFeature": 210.0,
+      "originalScore": 223.20111
+    }
+  },
+  {
+    "searchTerm": "Grinder",
+    "productCode": "4567223",
+    "weight": 1.2494833425508645,
+    "features": {
+      "categoryNameMatch": 1.2308053,
+      "nameMatch": 0.0,
+      "priceFeature": 127.0,
+      "originalScore": 86.15637
+    }
+  },
+  {
+    "searchTerm": "Grinder",
+    "productCode": "4567189",
+    "weight": 1.3664558196150847,
+    "features": {
+      "categoryNameMatch": 1.2308053,
+      "nameMatch": 0.0,
+      "priceFeature": 178.0,
+      "originalScore": 86.15637
+    }
+  },
+  {
+    "searchTerm": "Grinder",
+    "productCode": "4567182",
+    "weight": 1.3182906820004057,
+    "features": {
+      "categoryNameMatch": 1.2308053,
+      "nameMatch": 0.0,
+      "priceFeature": 157.0,
+      "originalScore": 86.15637
+    }
+  },
+  {
+    "searchTerm": "Grinder",
+    "productCode": "4567180",
+    "weight": 1.2563640764958186,
+    "features": {
+      "categoryNameMatch": 1.2308053,
+      "nameMatch": 0.0,
+      "priceFeature": 130.0,
+      "originalScore": 86.15637
+    }
+  },
+  {
+    "searchTerm": "Grinder",
+    "productCode": "4567131",
+    "weight": 1.0361805902572865,
+    "features": {
+      "categoryNameMatch": 1.2308053,
+      "nameMatch": 0.0,
+      "priceFeature": 34.0,
+      "originalScore": 86.15637
+    }
+  },
+  {
+    "searchTerm": "Grinder",
+    "productCode": "4567130",
+    "weight": 1.1279237095233414,
+    "features": {
+      "categoryNameMatch": 1.2308053,
+      "nameMatch": 0.0,
+      "priceFeature": 74.0,
+      "originalScore": 86.15637
+    }
+  },
+  {
+    "searchTerm": "Grinder",
+    "productCode": "3887127",
+    "weight": 1.2311347186976533,
+    "features": {
+      "categoryNameMatch": 1.2308053,
+      "nameMatch": 0.0,
+      "priceFeature": 119.0,
+      "originalScore": 86.15637
+    }
+  },
+  {
+    "searchTerm": "Grinder",
+    "productCode": "3887124",
+    "weight": 1.0981071957618735,
+    "features": {
+      "categoryNameMatch": 1.2308053,
+      "nameMatch": 0.0,
+      "priceFeature": 61.0,
+      "originalScore": 86.15637
+    }
+  },
+  {
+    "searchTerm": "PSB",
+    "productCode": "3923111",
+    "weight": 2.2004988627575925,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 1.5236825,
+      "priceFeature": 69.0,
+      "originalScore": 256.42255
+    }
+  },
+  {
+    "searchTerm": "PSB",
+    "productCode": "3923110",
+    "weight": 2.154627303124565,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 1.5236825,
+      "priceFeature": 49.0,
+      "originalScore": 256.42255
+    }
+  },
+  {
+    "searchTerm": "PSB",
+    "productCode": "3923098",
+    "weight": 2.24637042239062,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 1.5236825,
+      "priceFeature": 89.0,
+      "originalScore": 256.42255
+    }
+  },
+  {
+    "searchTerm": "PSB",
+    "productCode": "3921093",
+    "weight": 2.207379596702547,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 1.5236825,
+      "priceFeature": 72.0,
+      "originalScore": 256.42255
+    }
+  },
+  {
+    "searchTerm": "PSB",
+    "productCode": "3715400",
+    "weight": 2.202792440739244,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 1.5236825,
+      "priceFeature": 70.0,
+      "originalScore": 256.42255
+    }
+  },
+  {
+    "searchTerm": "PSB",
+    "productCode": "3922855",
+    "weight": 2.169793061218127,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 1.3553214,
+      "priceFeature": 154.0,
+      "originalScore": 228.08884
+    }
+  },
+  {
+    "searchTerm": "PSB",
+    "productCode": "3921101",
+    "weight": 2.059701318098861,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 1.3553214,
+      "priceFeature": 106.0,
+      "originalScore": 228.08884
+    }
+  },
+  {
+    "searchTerm": "PSB",
+    "productCode": "3921097",
+    "weight": 1.9977747125942737,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 1.3553214,
+      "priceFeature": 79.0,
+      "originalScore": 228.08884
+    }
+  },
+  {
+    "searchTerm": "PSB",
+    "productCode": "3778915",
+    "weight": 2.1262150795667507,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 1.3553214,
+      "priceFeature": 135.0,
+      "originalScore": 228.08884
+    }
+  },
+  {
+    "searchTerm": "PSB",
+    "productCode": "3755204",
+    "weight": 2.206490308924549,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 1.3553214,
+      "priceFeature": 170.0,
+      "originalScore": 228.08884
+    }
+  },
+  {
+    "searchTerm": "PSB",
+    "productCode": "3755201",
+    "weight": 2.206490308924549,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 1.3553214,
+      "priceFeature": 170.0,
+      "originalScore": 228.08884
+    }
+  },
+  {
+    "searchTerm": "PSB",
+    "productCode": "3778923",
+    "weight": 0.3457881083505998,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 109.0,
+      "originalScore": 21.215565
+    }
+  },
+  {
+    "searchTerm": "PSB",
+    "productCode": "3778917",
+    "weight": 0.31138443862582915,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 94.0,
+      "originalScore": 21.215565
+    }
+  },
+  {
+    "searchTerm": "PSB",
+    "productCode": "3774136",
+    "weight": 0.3480816863322512,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 110.0,
+      "originalScore": 21.215565
+    }
+  },
+  {
+    "searchTerm": "PSB",
+    "productCode": "3774135",
+    "weight": 0.22422847532307688,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 56.0,
+      "originalScore": 21.215565
+    }
+  },
+  {
+    "searchTerm": "PSB",
+    "productCode": "3774129",
+    "weight": 0.3366137964239943,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 105.0,
+      "originalScore": 21.215565
+    }
+  },
+  {
+    "searchTerm": "PSB",
+    "productCode": "3774128",
+    "weight": 0.3480816863322512,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 110.0,
+      "originalScore": 21.215565
+    }
+  },
+  {
+    "searchTerm": "PSB",
+    "productCode": "3755225",
+    "weight": 0.32514590651573744,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 100.0,
+      "originalScore": 21.215565
+    }
+  },
+  {
+    "searchTerm": "PSB",
+    "productCode": "3755219",
+    "weight": 0.20587985146986587,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 48.0,
+      "originalScore": 21.215565
+    }
+  },
+  {
+    "searchTerm": "PSB",
+    "productCode": "3755218",
+    "weight": 0.32514590651573744,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 100.0,
+      "originalScore": 21.215565
+    }
+  },
+  {
+    "searchTerm": "PSB",
+    "productCode": "3755217",
+    "weight": 0.22193489734142546,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 55.0,
+      "originalScore": 21.215565
+    }
+  },
+  {
+    "searchTerm": "PSB",
+    "productCode": "3755205",
+    "weight": 0.2769807689010585,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 79.0,
+      "originalScore": 21.215565
+    }
+  },
+  {
+    "searchTerm": "PSB",
+    "productCode": "4567194",
+    "weight": 0.22609092083067933,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 62.0,
+      "originalScore": 18.580118
+    }
+  },
+  {
+    "searchTerm": "PSB",
+    "productCode": "4567133",
+    "weight": 0.11141202174811052,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 12.0,
+      "originalScore": 18.580118
+    }
+  },
+  {
+    "searchTerm": "PSB",
+    "productCode": "3780171",
+    "weight": 0.3981092694545325,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 137.0,
+      "originalScore": 18.580118
+    }
+  },
+  {
+    "searchTerm": "PSB",
+    "productCode": "3778928",
+    "weight": 0.38893495752792706,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 133.0,
+      "originalScore": 18.580118
+    }
+  },
+  {
+    "searchTerm": "PSB",
+    "productCode": "3778922",
+    "weight": 0.3086597281701289,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 98.0,
+      "originalScore": 18.580118
+    }
+  },
+  {
+    "searchTerm": "PSB",
+    "productCode": "3778921",
+    "weight": 0.31095330615178024,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 99.0,
+      "originalScore": 18.580118
+    }
+  },
+  {
+    "searchTerm": "PSB",
+    "productCode": "3778919",
+    "weight": 0.31095330615178024,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 99.0,
+      "originalScore": 18.580118
+    }
+  },
+  {
+    "searchTerm": "PSB",
+    "productCode": "3774127",
+    "weight": 0.26278816853710135,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 78.0,
+      "originalScore": 18.580118
+    }
+  },
+  {
+    "searchTerm": "Keystone",
+    "productCode": "4491784",
+    "weight": 3.584862385321101,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 2.5839837,
+      "priceFeature": 37.0,
+      "originalScore": 442.96866
+    }
+  },
+  {
+    "searchTerm": "Medisana",
+    "productCode": "3942853",
+    "weight": 1.215897961208801,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 6.5,
+      "originalScore": 266.0004
+    }
+  },
+  {
+    "searchTerm": "Medisana",
+    "productCode": "3942849",
+    "weight": 1.2216319061629295,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 9.0,
+      "originalScore": 266.0004
+    }
+  },
+  {
+    "searchTerm": "Medisana",
+    "productCode": "3942841",
+    "weight": 1.2193383281812782,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 8.0,
+      "originalScore": 266.0004
+    }
+  },
+  {
+    "searchTerm": "Medisana",
+    "productCode": "3942829",
+    "weight": 1.2216319061629295,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 9.0,
+      "originalScore": 266.0004
+    }
+  },
+  {
+    "searchTerm": "Medisana",
+    "productCode": "3942823",
+    "weight": 1.2285126401078836,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 12.0,
+      "originalScore": 266.0004
+    }
+  },
+  {
+    "searchTerm": "Medisana",
+    "productCode": "3942767",
+    "weight": 1.2239254841445808,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 10.0,
+      "originalScore": 266.0004
+    }
+  },
+  {
+    "searchTerm": "saw",
+    "productCode": "3880525",
+    "weight": 1.8824290462517368,
+    "features": {
+      "categoryNameMatch": 1.3497435,
+      "nameMatch": 0.0,
+      "priceFeature": 45.0,
+      "originalScore": 255.81656
+    }
+  },
+  {
+    "searchTerm": "saw",
+    "productCode": "4567179",
+    "weight": 1.6920000045421206,
+    "features": {
+      "categoryNameMatch": 1.3497435,
+      "nameMatch": 0.0,
+      "priceFeature": 109.0,
+      "originalScore": 181.12805
+    }
+  },
+  {
+    "searchTerm": "saw",
+    "productCode": "4567162",
+    "weight": 1.0359057120149644,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 128.0,
+      "originalScore": 164.41396
+    }
+  },
+  {
+    "searchTerm": "saw",
+    "productCode": "4567134",
+    "weight": 1.5331860647043314,
+    "features": {
+      "categoryNameMatch": 1.3497435,
+      "nameMatch": 0.0,
+      "priceFeature": 78.0,
+      "originalScore": 161.70099
+    }
+  },
+  {
+    "searchTerm": "saw",
+    "productCode": "4567176",
+    "weight": 1.26180522598961,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 237.0,
+      "originalScore": 159.07608
+    }
+  },
+  {
+    "searchTerm": "saw",
+    "productCode": "CONF_M_PIPE-40-15-ST",
+    "weight": 1.255975005313366,
+    "features": {
+      "categoryNameMatch": 1.3497435,
+      "nameMatch": 0.0,
+      "priceFeature": 75.12,
+      "originalScore": 101.7661
+    }
+  },
+  {
+    "searchTerm": "saw",
+    "productCode": "CONF_M_PIPE-30-25-ST",
+    "weight": 1.2470988585243754,
+    "features": {
+      "categoryNameMatch": 1.3497435,
+      "nameMatch": 0.0,
+      "priceFeature": 71.25,
+      "originalScore": 101.7661
+    }
+  },
+  {
+    "searchTerm": "saw",
+    "productCode": "CONF_M_PIPE-30-20-PL",
+    "weight": 1.1910438126528158,
+    "features": {
+      "categoryNameMatch": 1.3497435,
+      "nameMatch": 0.0,
+      "priceFeature": 46.81,
+      "originalScore": 101.7661
+    }
+  },
+  {
+    "searchTerm": "saw",
+    "productCode": "CONF_M_PIPE-30-15-ST",
+    "weight": 1.2390942713684119,
+    "features": {
+      "categoryNameMatch": 1.3497435,
+      "nameMatch": 0.0,
+      "priceFeature": 67.76,
+      "originalScore": 101.7661
+    }
+  },
+  {
+    "searchTerm": "saw",
+    "productCode": "CONF_M_PIPE-30-15-PL",
+    "weight": 1.1820529869647425,
+    "features": {
+      "categoryNameMatch": 1.3497435,
+      "nameMatch": 0.0,
+      "priceFeature": 42.89,
+      "originalScore": 101.7661
+    }
+  },
+  {
+    "searchTerm": "saw",
+    "productCode": "CONF_M_PIPE",
+    "weight": 1.212121794304192,
+    "features": {
+      "categoryNameMatch": 1.3497435,
+      "nameMatch": 0.0,
+      "priceFeature": 56.0,
+      "originalScore": 101.7661
+    }
+  },
+  {
+    "searchTerm": "saw",
+    "productCode": "CONF_BANDSAW_ML",
+    "weight": 1.9988190420106138,
+    "features": {
+      "categoryNameMatch": 1.3497435,
+      "nameMatch": 0.0,
+      "priceFeature": 399.0,
+      "originalScore": 101.7661
+    }
+  },
+  {
+    "searchTerm": "saw",
+    "productCode": "4567185",
+    "weight": 1.355839825542782,
+    "features": {
+      "categoryNameMatch": 1.3497435,
+      "nameMatch": 0.0,
+      "priceFeature": 133.0,
+      "originalScore": 94.48204
+    }
+  },
+  {
+    "searchTerm": "saw",
+    "productCode": "3887125",
+    "weight": 1.5209774402216811,
+    "features": {
+      "categoryNameMatch": 1.3497435,
+      "nameMatch": 0.0,
+      "priceFeature": 205.0,
+      "originalScore": 94.48204
+    }
+  },
+  {
+    "searchTerm": "saw",
+    "productCode": "3318057",
+    "weight": 1.1998765227904884,
+    "features": {
+      "categoryNameMatch": 1.3497435,
+      "nameMatch": 0.0,
+      "priceFeature": 65.0,
+      "originalScore": 94.48204
+    }
+  },
+  {
+    "searchTerm": "saw",
+    "productCode": "3865362",
+    "weight": 0.1414088364998864,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 11.0,
+      "originalScore": 25.731934
+    }
+  },
+  {
+    "searchTerm": "saw",
+    "productCode": "CONF_SCREWDRIVER_S-STD-4-9",
+    "weight": 0.3667640520017288,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 119.0,
+      "originalScore": 20.781492
+    }
+  },
+  {
+    "searchTerm": "saw",
+    "productCode": "CONF_SCREWDRIVER_S-STD-2-12",
+    "weight": 0.3667640520017288,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 119.0,
+      "originalScore": 20.781492
+    }
+  },
+  {
+    "searchTerm": "saw",
+    "productCode": "CONF_SCREWDRIVER_S-PROF-2-18",
+    "weight": 0.5961218501668665,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 219.0,
+      "originalScore": 20.781492
+    }
+  },
+  {
+    "searchTerm": "saw",
+    "productCode": "CONF_SCREWDRIVER_S-PROF-2-12",
+    "weight": 0.5961218501668665,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 219.0,
+      "originalScore": 20.781492
+    }
+  },
+  {
+    "searchTerm": "saw",
+    "productCode": "CONF_SCREWDRIVER_S",
+    "weight": 0.3208924923687013,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 99.0,
+      "originalScore": 20.781492
+    }
+  },
+  {
+    "searchTerm": "saw",
+    "productCode": "3880502",
+    "weight": 0.3015443169482336,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 103.0,
+      "originalScore": 14.464208
+    }
+  },
+  {
+    "searchTerm": "saw",
+    "productCode": "40008000",
+    "weight": 0.25304386779122756,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 85.0,
+      "originalScore": 12.865967
+    }
+  },
+  {
+    "searchTerm": "saw",
+    "productCode": "3803058",
+    "weight": 0.11198882191966797,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 23.5,
+      "originalScore": 12.865967
+    }
+  },
+  {
+    "searchTerm": "saw",
+    "productCode": "3865361",
+    "weight": 0.08441981044872701,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 14.0,
+      "originalScore": 11.585783
+    }
+  },
+  {
+    "searchTerm": "saw",
+    "productCode": "5888798",
+    "weight": 0.04810928592804041,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 8.0,
+      "originalScore": 6.5915203
+    }
+  },
+  {
+    "searchTerm": "saw",
+    "productCode": "4491784",
+    "weight": 0.10229052662572505,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 37.0,
+      "originalScore": 3.8600602
+    }
+  },
+  {
+    "searchTerm": "saw",
+    "productCode": "3942853",
+    "weight": 0.032336398185358065,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 6.5,
+      "originalScore": 3.8600602
+    }
+  },
+  {
+    "searchTerm": "saw",
+    "productCode": "3942849",
+    "weight": 0.03807034313948651,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 9.0,
+      "originalScore": 3.8600602
+    }
+  },
+  {
+    "searchTerm": "saw",
+    "productCode": "3942841",
+    "weight": 0.035776765157835136,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 8.0,
+      "originalScore": 3.8600602
+    }
+  },
+  {
+    "searchTerm": "disc",
+    "productCode": "3881023",
+    "weight": 1.0350868094652048,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 18.0,
+      "originalScore": 220.11166
+    }
+  },
+  {
+    "searchTerm": "disc",
+    "productCode": "3881022",
+    "weight": 1.0350868094652048,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 18.0,
+      "originalScore": 220.11166
+    }
+  },
+  {
+    "searchTerm": "disc",
+    "productCode": "3881021",
+    "weight": 1.041967543410159,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 21.0,
+      "originalScore": 220.11166
+    }
+  },
+  {
+    "searchTerm": "disc",
+    "productCode": "3881020",
+    "weight": 1.0232335961513133,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 30.0,
+      "originalScore": 211.39046
+    }
+  },
+  {
+    "searchTerm": "disc",
+    "productCode": "3942841",
+    "weight": 0.922907470070458,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 8.0,
+      "originalScore": 200.34561
+    }
+  },
+  {
+    "searchTerm": "disc",
+    "productCode": "3881017",
+    "weight": 0.579140129132676,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 30.0,
+      "originalScore": 113.030716
+    }
+  },
+  {
+    "searchTerm": "disc",
+    "productCode": "3865725",
+    "weight": 0.18422253080991982,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 34.0,
+      "originalScore": 23.53069
+    }
+  },
+  {
+    "searchTerm": "disc",
+    "productCode": "5888798",
+    "weight": 0.10011466120673394,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 8.0,
+      "originalScore": 18.109896
+    }
+  },
+  {
+    "searchTerm": "disc",
+    "productCode": "3942829",
+    "weight": 0.09960898923693277,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 9.0,
+      "originalScore": 17.489906
+    }
+  },
+  {
+    "searchTerm": "disc",
+    "productCode": "3881018",
+    "weight": 0.16812685141781544,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 55.0,
+      "originalScore": 9.297926
+    }
+  },
+  {
+    "searchTerm": "disc",
+    "productCode": "3881016",
+    "weight": 0.14060391563799893,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 43.0,
+      "originalScore": 9.297926
+    }
+  },
+  {
+    "searchTerm": "footware",
+    "productCode": "89649000",
+    "weight": 0.23954894921166037,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 85.0,
+      "originalScore": 9.877054
+    }
+  },
+  {
+    "searchTerm": "footware",
+    "productCode": "88117000",
+    "weight": 0.2670718849914769,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 97.0,
+      "originalScore": 9.877054
+    }
+  },
+  {
+    "searchTerm": "footware",
+    "productCode": "88116000",
+    "weight": 0.23954894921166037,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 85.0,
+      "originalScore": 9.877054
+    }
+  },
+  {
+    "searchTerm": "footware",
+    "productCode": "61096000",
+    "weight": 0.23954894921166037,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 85.0,
+      "originalScore": 9.877054
+    }
+  },
+  {
+    "searchTerm": "footware",
+    "productCode": "52561000",
+    "weight": 0.23954894921166037,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 85.0,
+      "originalScore": 9.877054
+    }
+  },
+  {
+    "searchTerm": "footware",
+    "productCode": "50500000",
+    "weight": 0.23954894921166037,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 85.0,
+      "originalScore": 9.877054
+    }
+  },
+  {
+    "searchTerm": "footware",
+    "productCode": "49042000",
+    "weight": 0.23954894921166037,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 85.0,
+      "originalScore": 9.877054
+    }
+  },
+  {
+    "searchTerm": "footware",
+    "productCode": "47591000",
+    "weight": 0.2670718849914769,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 97.0,
+      "originalScore": 9.877054
+    }
+  },
+  {
+    "searchTerm": "footware",
+    "productCode": "47003000",
+    "weight": 0.23954894921166037,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 85.0,
+      "originalScore": 9.877054
+    }
+  },
+  {
+    "searchTerm": "footware",
+    "productCode": "40008000",
+    "weight": 0.23954894921166037,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 85.0,
+      "originalScore": 9.877054
+    }
+  },
+  {
+    "searchTerm": "footware",
+    "productCode": "33031000",
+    "weight": 0.23954894921166037,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 85.0,
+      "originalScore": 9.877054
+    }
+  },
+  {
+    "searchTerm": "footware",
+    "productCode": "26388000",
+    "weight": 0.23954894921166037,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 85.0,
+      "originalScore": 9.877054
+    }
+  },
+  {
+    "searchTerm": "footware",
+    "productCode": "26038000",
+    "weight": 0.2670718849914769,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 97.0,
+      "originalScore": 9.877054
+    }
+  },
+  {
+    "searchTerm": "footware",
+    "productCode": "26002000",
+    "weight": 0.23954894921166037,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 85.0,
+      "originalScore": 9.877054
+    }
+  },
+  {
+    "searchTerm": "jigsaw",
+    "productCode": "3887125",
+    "weight": 1.3791142444551516,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 205.0,
+      "originalScore": 201.31392
+    }
+  },
+  {
+    "searchTerm": "jigsaw",
+    "productCode": "4567176",
+    "weight": 2.2269806855808145,
+    "features": {
+      "categoryNameMatch": 2.1623287,
+      "nameMatch": 0.0,
+      "priceFeature": 237.0,
+      "originalScore": 151.36299
+    }
+  },
+  {
+    "searchTerm": "jigsaw",
+    "productCode": "4567163",
+    "weight": 2.077898116773475,
+    "features": {
+      "categoryNameMatch": 2.1623287,
+      "nameMatch": 0.0,
+      "priceFeature": 172.0,
+      "originalScore": 151.36299
+    }
+  },
+  {
+    "searchTerm": "jigsaw",
+    "productCode": "4567162",
+    "weight": 1.9769806855808145,
+    "features": {
+      "categoryNameMatch": 2.1623287,
+      "nameMatch": 0.0,
+      "priceFeature": 128.0,
+      "originalScore": 151.36299
+    }
+  },
+  {
+    "searchTerm": "cable",
+    "productCode": "3865361",
+    "weight": 2.314769500804207,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 1.7004266,
+      "priceFeature": 14.0,
+      "originalScore": 286.947
+    }
+  },
+  {
+    "searchTerm": "cable",
+    "productCode": "3864748",
+    "weight": 2.3858704182354,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 1.7004266,
+      "priceFeature": 45.0,
+      "originalScore": 286.947
+    }
+  },
+  {
+    "searchTerm": "cable",
+    "productCode": "1128763",
+    "weight": 1.940494552846786,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 1.4182,
+      "priceFeature": 16.0,
+      "originalScore": 239.32126
+    }
+  },
+  {
+    "searchTerm": "cable",
+    "productCode": "3879445",
+    "weight": 0.6913830128368885,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 59.0,
+      "originalScore": 123.159
+    }
+  },
+  {
+    "searchTerm": "cable",
+    "productCode": "3793682",
+    "weight": 0.6125766292898762,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 28.0,
+      "originalScore": 121.45236
+    }
+  },
+  {
+    "searchTerm": "cable",
+    "productCode": "4567176",
+    "weight": 1.0392978820163365,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 237.0,
+      "originalScore": 109.79419
+    }
+  },
+  {
+    "searchTerm": "cable",
+    "productCode": "4567165",
+    "weight": 1.0599400838511988,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 246.0,
+      "originalScore": 109.79419
+    }
+  },
+  {
+    "searchTerm": "cable",
+    "productCode": "3879444",
+    "weight": 0.6137211378472499,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 79.0,
+      "originalScore": 95.79828
+    }
+  },
+  {
+    "searchTerm": "cable",
+    "productCode": "1128762",
+    "weight": 0.7008771011500021,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 117.0,
+      "originalScore": 95.79828
+    }
+  },
+  {
+    "searchTerm": "cable",
+    "productCode": "3881017",
+    "weight": 0.43850076200453647,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 30.0,
+      "originalScore": 81.8813
+    }
+  },
+  {
+    "searchTerm": "cable",
+    "productCode": "3881028",
+    "weight": 0.4045318694501202,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 19.0,
+      "originalScore": 79.94563
+    }
+  },
+  {
+    "searchTerm": "cable",
+    "productCode": "3881018",
+    "weight": 0.47080530275565957,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 55.0,
+      "originalScore": 76.33646
+    }
+  },
+  {
+    "searchTerm": "cable",
+    "productCode": "3881016",
+    "weight": 0.44328236697584306,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 43.0,
+      "originalScore": 76.33646
+    }
+  },
+  {
+    "searchTerm": "cable",
+    "productCode": "4600658",
+    "weight": 0.34134544601081657,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 11.0,
+      "originalScore": 70.01476
+    }
+  },
+  {
+    "searchTerm": "cable",
+    "productCode": "4598185",
+    "weight": 0.36198764784567894,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 20.0,
+      "originalScore": 70.01476
+    }
+  },
+  {
+    "searchTerm": "kit",
+    "productCode": "3881382",
+    "weight": 2.3968471296091582,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 1.7004266,
+      "priceFeature": 70.0,
+      "originalScore": 276.67838
+    }
+  },
+  {
+    "searchTerm": "kit",
+    "productCode": "1128762",
+    "weight": 2.5046452947467728,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 1.7004266,
+      "priceFeature": 117.0,
+      "originalScore": 276.67838
+    }
+  },
+  {
+    "searchTerm": "kit",
+    "productCode": "693923",
+    "weight": 2.1233677491445886,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 1.5465429,
+      "priceFeature": 39.0,
+      "originalScore": 251.63977
+    }
+  },
+  {
+    "searchTerm": "kit",
+    "productCode": "3092788",
+    "weight": 0.7451018801691712,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 51.0,
+      "originalScore": 139.12082
+    }
+  },
+  {
+    "searchTerm": "kit",
+    "productCode": "3881041",
+    "weight": 0.7065993112150903,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 79.0,
+      "originalScore": 116.36934
+    }
+  },
+  {
+    "searchTerm": "kit",
+    "productCode": "5888798",
+    "weight": 0.4867577433606723,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 8.0,
+      "originalScore": 103.74528
+    }
+  },
+  {
+    "searchTerm": "kit",
+    "productCode": "3788619",
+    "weight": 0.5621986404060626,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 69.0,
+      "originalScore": 89.46677
+    }
+  },
+  {
+    "searchTerm": "kit",
+    "productCode": "3857731",
+    "weight": 0.6220126122435475,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 99.0,
+      "originalScore": 87.47488
+    }
+  },
+  {
+    "searchTerm": "kit",
+    "productCode": "3791322",
+    "weight": 0.5761410526105201,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 79.0,
+      "originalScore": 87.47488
+    }
+  },
+  {
+    "searchTerm": "kit",
+    "productCode": "4600658",
+    "weight": 0.38747065044401513,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 11.0,
+      "originalScore": 80.23077
+    }
+  },
+  {
+    "searchTerm": "kit",
+    "productCode": "4598185",
+    "weight": 0.4081128522788775,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 20.0,
+      "originalScore": 80.23077
+    }
+  },
+  {
+    "searchTerm": "kit",
+    "productCode": "3791317",
+    "weight": 0.5720218093031642,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 93.0,
+      "originalScore": 79.45065
+    }
+  },
+  {
+    "searchTerm": "kit",
+    "productCode": "33031000",
+    "weight": 0.26001326829012517,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 85.0,
+      "originalScore": 14.40958
+    }
+  },
+  {
+    "searchTerm": "kit",
+    "productCode": "3881074",
+    "weight": 0.12609135549186823,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 35.0,
+      "originalScore": 10.147554
+    }
+  },
+  {
+    "searchTerm": "kit",
+    "productCode": "3881028",
+    "weight": 0.08466547077532455,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 19.0,
+      "originalScore": 9.100235
+    }
+  },
+  {
+    "searchTerm": "kit",
+    "productCode": "4567163",
+    "weight": 0.43510677799117825,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 172.0,
+      "originalScore": 8.994781
+    }
+  },
+  {
+    "searchTerm": "kit",
+    "productCode": "4567162",
+    "weight": 0.33418934679851775,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 128.0,
+      "originalScore": 8.994781
+    }
+  },
+  {
+    "searchTerm": "kit",
+    "productCode": "3865614",
+    "weight": 0.1206564634729557,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 36.0,
+      "originalScore": 8.435819
+    }
+  },
+  {
+    "searchTerm": "kit",
+    "productCode": "3778923",
+    "weight": 0.2862920166857854,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 109.0,
+      "originalScore": 8.038113
+    }
+  },
+  {
+    "searchTerm": "kit",
+    "productCode": "3778917",
+    "weight": 0.25188834696101475,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 94.0,
+      "originalScore": 8.038113
+    }
+  },
+  {
+    "searchTerm": "kit",
+    "productCode": "3774136",
+    "weight": 0.2885855946674368,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 110.0,
+      "originalScore": 8.038113
+    }
+  },
+  {
+    "searchTerm": "kit",
+    "productCode": "3774129",
+    "weight": 0.2771177047591799,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 105.0,
+      "originalScore": 8.038113
+    }
+  },
+  {
+    "searchTerm": "kit",
+    "productCode": "3774128",
+    "weight": 0.2885855946674368,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 110.0,
+      "originalScore": 8.038113
+    }
+  },
+  {
+    "searchTerm": "kit",
+    "productCode": "3755225",
+    "weight": 0.26564981485092304,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 100.0,
+      "originalScore": 8.038113
+    }
+  },
+  {
+    "searchTerm": "kit",
+    "productCode": "3755218",
+    "weight": 0.26564981485092304,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 100.0,
+      "originalScore": 8.038113
+    }
+  },
+  {
+    "searchTerm": "kit",
+    "productCode": "3755217",
+    "weight": 0.16243880567661106,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 55.0,
+      "originalScore": 8.038113
+    }
+  },
+  {
+    "searchTerm": "kit",
+    "productCode": "61096000",
+    "weight": 0.23107809260523587,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 85.0,
+      "originalScore": 8.000892
+    }
+  },
+  {
+    "searchTerm": "kit",
+    "productCode": "4567182",
+    "weight": 0.39621570728413497,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 157.0,
+      "originalScore": 8.000892
+    }
+  },
+  {
+    "searchTerm": "kit",
+    "productCode": "3803058",
+    "weight": 0.09002304673367625,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 23.5,
+      "originalScore": 8.000892
+    }
+  },
+  {
+    "searchTerm": "kit",
+    "productCode": "3865725",
+    "weight": 0.11309990105096578,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 34.0,
+      "originalScore": 7.778142
+    }
+  },
+  {
+    "searchTerm": "psr",
+    "productCode": "3778923",
+    "weight": 1.9947120631864141,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 1.272934,
+      "priceFeature": 109.0,
+      "originalScore": 222.76343
+    }
+  },
+  {
+    "searchTerm": "psr",
+    "productCode": "3778917",
+    "weight": 1.9603083934616437,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 1.272934,
+      "priceFeature": 94.0,
+      "originalScore": 222.76343
+    }
+  },
+  {
+    "searchTerm": "psr",
+    "productCode": "3774136",
+    "weight": 1.9970056411680654,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 1.272934,
+      "priceFeature": 110.0,
+      "originalScore": 222.76343
+    }
+  },
+  {
+    "searchTerm": "psr",
+    "productCode": "3774135",
+    "weight": 1.8731524301588913,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 1.272934,
+      "priceFeature": 56.0,
+      "originalScore": 222.76343
+    }
+  },
+  {
+    "searchTerm": "psr",
+    "productCode": "3774129",
+    "weight": 1.9855377512598087,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 1.272934,
+      "priceFeature": 105.0,
+      "originalScore": 222.76343
+    }
+  },
+  {
+    "searchTerm": "psr",
+    "productCode": "3774128",
+    "weight": 1.9970056411680654,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 1.272934,
+      "priceFeature": 110.0,
+      "originalScore": 222.76343
+    }
+  },
+  {
+    "searchTerm": "psr",
+    "productCode": "3755225",
+    "weight": 1.9740698613515517,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 1.272934,
+      "priceFeature": 100.0,
+      "originalScore": 222.76343
+    }
+  },
+  {
+    "searchTerm": "psr",
+    "productCode": "3755219",
+    "weight": 1.8548038063056802,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 1.272934,
+      "priceFeature": 48.0,
+      "originalScore": 222.76343
+    }
+  },
+  {
+    "searchTerm": "psr",
+    "productCode": "3755218",
+    "weight": 1.9740698613515517,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 1.272934,
+      "priceFeature": 100.0,
+      "originalScore": 222.76343
+    }
+  },
+  {
+    "searchTerm": "psr",
+    "productCode": "3755217",
+    "weight": 1.8708588521772398,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 1.272934,
+      "priceFeature": 55.0,
+      "originalScore": 222.76343
+    }
+  },
+  {
+    "searchTerm": "psr",
+    "productCode": "3755205",
+    "weight": 1.9259047237368727,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 1.272934,
+      "priceFeature": 79.0,
+      "originalScore": 222.76343
+    }
+  },
+  {
+    "searchTerm": "psr",
+    "productCode": "3780171",
+    "weight": 1.8422000624645833,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 1.1148071,
+      "priceFeature": 137.0,
+      "originalScore": 195.09125
+    }
+  },
+  {
+    "searchTerm": "psr",
+    "productCode": "3778928",
+    "weight": 1.8330257505379777,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 1.1148071,
+      "priceFeature": 133.0,
+      "originalScore": 195.09125
+    }
+  },
+  {
+    "searchTerm": "psr",
+    "productCode": "3778922",
+    "weight": 1.7527505211801797,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 1.1148071,
+      "priceFeature": 98.0,
+      "originalScore": 195.09125
+    }
+  },
+  {
+    "searchTerm": "psr",
+    "productCode": "3778921",
+    "weight": 1.755044099161831,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 1.1148071,
+      "priceFeature": 99.0,
+      "originalScore": 195.09125
+    }
+  },
+  {
+    "searchTerm": "psr",
+    "productCode": "3778919",
+    "weight": 1.755044099161831,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 1.1148071,
+      "priceFeature": 99.0,
+      "originalScore": 195.09125
+    }
+  },
+  {
+    "searchTerm": "psr",
+    "productCode": "3774127",
+    "weight": 1.7068789615471522,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 1.1148071,
+      "priceFeature": 78.0,
+      "originalScore": 195.09125
+    }
+  },
+  {
+    "searchTerm": "psr",
+    "productCode": "3755213",
+    "weight": 1.681649603748987,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 1.1148071,
+      "priceFeature": 67.0,
+      "originalScore": 195.09125
+    }
+  },
+  {
+    "searchTerm": "psr",
+    "productCode": "3755212",
+    "weight": 1.7688055670517393,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 1.1148071,
+      "priceFeature": 105.0,
+      "originalScore": 195.09125
+    }
+  },
+  {
+    "searchTerm": "psr",
+    "productCode": "3755211",
+    "weight": 1.7481633652168769,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 1.1148071,
+      "priceFeature": 96.0,
+      "originalScore": 195.09125
+    }
+  },
+  {
+    "searchTerm": "psr",
+    "productCode": "3778927",
+    "weight": 1.8040980731721752,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.9916252,
+      "priceFeature": 194.0,
+      "originalScore": 173.53441
+    }
+  },
+  {
+    "searchTerm": "psr",
+    "productCode": "3778926",
+    "weight": 1.6481347704198814,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.9916252,
+      "priceFeature": 126.0,
+      "originalScore": 173.53441
+    }
+  },
+  {
+    "searchTerm": "psr",
+    "productCode": "3774131",
+    "weight": 1.8063916511538265,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.9916252,
+      "priceFeature": 195.0,
+      "originalScore": 173.53441
+    }
+  },
+  {
+    "searchTerm": "psr",
+    "productCode": "3758751",
+    "weight": 1.7146485318877716,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.9916252,
+      "priceFeature": 155.0,
+      "originalScore": 173.53441
+    }
+  },
+  {
+    "searchTerm": "psr",
+    "productCode": "3756505",
+    "weight": 1.7008870639978633,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.9916252,
+      "priceFeature": 149.0,
+      "originalScore": 173.53441
+    }
+  },
+  {
+    "searchTerm": "psr",
+    "productCode": "3755210",
+    "weight": 1.6297861465666705,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.9916252,
+      "priceFeature": 118.0,
+      "originalScore": 173.53441
+    }
+  },
+  {
+    "searchTerm": "psr",
+    "productCode": "4567188",
+    "weight": 0.20817342945151723,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 49.0,
+      "originalScore": 21.215565
+    }
+  },
+  {
+    "searchTerm": "psr",
+    "productCode": "4567192",
+    "weight": 0.3843478015646242,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 131.0,
+      "originalScore": 18.580118
+    }
+  },
+  {
+    "searchTerm": "psr",
+    "productCode": "4567133",
+    "weight": 0.11141202174811052,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 12.0,
+      "originalScore": 18.580118
+    }
+  },
+  {
+    "searchTerm": "psr",
+    "productCode": "3923111",
+    "weight": 0.24214596670223895,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 69.0,
+      "originalScore": 18.580118
+    }
+  },
+  {
+    "searchTerm": "hitachi",
+    "productCode": "3921095",
+    "weight": 1.1698158958164528,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 120.0,
+      "originalScore": 198.1369
+    }
+  },
+  {
+    "searchTerm": "hitachi",
+    "productCode": "3920608",
+    "weight": 1.1285314921467282,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 102.0,
+      "originalScore": 198.1369
+    }
+  },
+  {
+    "searchTerm": "hitachi",
+    "productCode": "3920606",
+    "weight": 1.0987149783852603,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 89.0,
+      "originalScore": 198.1369
+    }
+  },
+  {
+    "searchTerm": "hitachi",
+    "productCode": "3887131",
+    "weight": 1.1354122260916824,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 105.0,
+      "originalScore": 198.1369
+    }
+  },
+  {
+    "searchTerm": "hitachi",
+    "productCode": "3887130",
+    "weight": 2.894586538018288,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 872.0,
+      "originalScore": 198.1369
+    }
+  },
+  {
+    "searchTerm": "hitachi",
+    "productCode": "3887129",
+    "weight": 2.1744030517797555,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 558.0,
+      "originalScore": 198.1369
+    }
+  },
+  {
+    "searchTerm": "hitachi",
+    "productCode": "3887128",
+    "weight": 1.360182868293517,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 203.0,
+      "originalScore": 198.1369
+    }
+  },
+  {
+    "searchTerm": "hitachi",
+    "productCode": "3887127",
+    "weight": 1.1675223178348015,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 119.0,
+      "originalScore": 198.1369
+    }
+  },
+  {
+    "searchTerm": "hitachi",
+    "productCode": "3887126",
+    "weight": 1.383118648110031,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 213.0,
+      "originalScore": 198.1369
+    }
+  },
+  {
+    "searchTerm": "hitachi",
+    "productCode": "3887125",
+    "weight": 1.36477002425682,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 205.0,
+      "originalScore": 198.1369
+    }
+  },
+  {
+    "searchTerm": "hitachi",
+    "productCode": "3887124",
+    "weight": 1.0344947948990217,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 61.0,
+      "originalScore": 198.1369
+    }
+  },
+  {
+    "searchTerm": "hitachi",
+    "productCode": "3887123",
+    "weight": 2.566604886642141,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 729.0,
+      "originalScore": 198.1369
+    }
+  },
+  {
+    "searchTerm": "hitachi",
+    "productCode": "3887122",
+    "weight": 1.2822012169173704,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 169.0,
+      "originalScore": 198.1369
+    }
+  },
+  {
+    "searchTerm": "hitachi",
+    "productCode": "3887121",
+    "weight": 1.0344947948990217,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 61.0,
+      "originalScore": 198.1369
+    }
+  },
+  {
+    "searchTerm": "hitachi",
+    "productCode": "3887120",
+    "weight": 1.445045253614618,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 240.0,
+      "originalScore": 198.1369
+    }
+  },
+  {
+    "searchTerm": "hitachi",
+    "productCode": "3887119",
+    "weight": 1.162935161871499,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 117.0,
+      "originalScore": 198.1369
+    }
+  },
+  {
+    "searchTerm": "skill",
+    "productCode": "3881414",
+    "weight": 0.7686375978452273,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 59.0,
+      "originalScore": 140.26968
+    }
+  },
+  {
+    "searchTerm": "skill",
+    "productCode": "3887530",
+    "weight": 0.13065705060004293,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 28.0,
+      "originalScore": 14.714725
+    }
+  },
+  {
+    "searchTerm": "skill",
+    "productCode": "3887529",
+    "weight": 0.2522166836275659,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 81.0,
+      "originalScore": 14.714725
+    }
+  },
+  {
+    "searchTerm": "skill",
+    "productCode": "3887524",
+    "weight": 0.17882218821472184,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 49.0,
+      "originalScore": 14.714725
+    }
+  },
+  {
+    "searchTerm": "skill",
+    "productCode": "3887514",
+    "weight": 0.27744604142573104,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 92.0,
+      "originalScore": 14.714725
+    }
+  },
+  {
+    "searchTerm": "skill",
+    "productCode": "3887513",
+    "weight": 0.3416662249119695,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 120.0,
+      "originalScore": 14.714725
+    }
+  },
+  {
+    "searchTerm": "skill",
+    "productCode": "3887506",
+    "weight": 0.29350108729729063,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 99.0,
+      "originalScore": 14.714725
+    }
+  },
+  {
+    "searchTerm": "skill",
+    "productCode": "3887499",
+    "weight": 0.14671209647160255,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 35.0,
+      "originalScore": 14.714725
+    }
+  },
+  {
+    "searchTerm": "skill",
+    "productCode": "3887493",
+    "weight": 0.2201065918844466,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 67.0,
+      "originalScore": 14.714725
+    }
+  },
+  {
+    "searchTerm": "skill",
+    "productCode": "3887491",
+    "weight": 0.4081799863798594,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 149.0,
+      "originalScore": 14.714725
+    }
+  },
+  {
+    "searchTerm": "skill",
+    "productCode": "3887483",
+    "weight": 0.33249191298536407,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 116.0,
+      "originalScore": 14.714725
+    }
+  },
+  {
+    "searchTerm": "skill",
+    "productCode": "3887477",
+    "weight": 0.6490056744532539,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 254.0,
+      "originalScore": 14.714725
+    }
+  },
+  {
+    "searchTerm": "skill",
+    "productCode": "3887475",
+    "weight": 0.13983136252664843,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 32.0,
+      "originalScore": 14.714725
+    }
+  },
+  {
+    "searchTerm": "skill",
+    "productCode": "3884646",
+    "weight": 0.22698732582940073,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 70.0,
+      "originalScore": 14.714725
+    }
+  },
+  {
+    "searchTerm": "skill",
+    "productCode": "3884645",
+    "weight": 0.18799650014132735,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 53.0,
+      "originalScore": 14.714725
+    }
+  },
+  {
+    "searchTerm": "skill",
+    "productCode": "3884636",
+    "weight": 0.13295062858169432,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 29.0,
+      "originalScore": 14.714725
+    }
+  },
+  {
+    "searchTerm": "skill",
+    "productCode": "3884633",
+    "weight": 0.1811157661963732,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 50.0,
+      "originalScore": 14.714725
+    }
+  },
+  {
+    "searchTerm": "skill",
+    "productCode": "3883696",
+    "weight": 0.17882218821472184,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 49.0,
+      "originalScore": 14.714725
+    }
+  },
+  {
+    "searchTerm": "skill",
+    "productCode": "3883690",
+    "weight": 0.13524420656334568,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 30.0,
+      "originalScore": 14.714725
+    }
+  },
+  {
+    "searchTerm": "skill",
+    "productCode": "3881427",
+    "weight": 0.12606989463674018,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 26.0,
+      "originalScore": 14.714725
+    }
+  },
+  {
+    "searchTerm": "skill",
+    "productCode": "3881417",
+    "weight": 0.22469374784774934,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 69.0,
+      "originalScore": 14.714725
+    }
+  },
+  {
+    "searchTerm": "skill",
+    "productCode": "3881389",
+    "weight": 0.1811157661963732,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 50.0,
+      "originalScore": 14.714725
+    }
+  },
+  {
+    "searchTerm": "skill",
+    "productCode": "3881339",
+    "weight": 0.12606989463674018,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 26.0,
+      "originalScore": 14.714725
+    }
+  },
+  {
+    "searchTerm": "skill",
+    "productCode": "3881338",
+    "weight": 0.10542769280187779,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 17.0,
+      "originalScore": 14.714725
+    }
+  },
+  {
+    "searchTerm": "skill",
+    "productCode": "3881076",
+    "weight": 0.11001484876518054,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 19.0,
+      "originalScore": 14.714725
+    }
+  },
+  {
+    "searchTerm": "skill",
+    "productCode": "3881075",
+    "weight": 0.1811157661963732,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 50.0,
+      "originalScore": 14.714725
+    }
+  },
+  {
+    "searchTerm": "skill",
+    "productCode": "3881074",
+    "weight": 0.14671209647160255,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 35.0,
+      "originalScore": 14.714725
+    }
+  },
+  {
+    "searchTerm": "skill",
+    "productCode": "3881072",
+    "weight": 0.30267539922389614,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 103.0,
+      "originalScore": 14.714725
+    }
+  },
+  {
+    "searchTerm": "skill",
+    "productCode": "3881066",
+    "weight": 0.25451026160921725,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 82.0,
+      "originalScore": 14.714725
+    }
+  },
+  {
+    "searchTerm": "skill",
+    "productCode": "3881065",
+    "weight": 0.19946439004958422,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 58.0,
+      "originalScore": 14.714725
+    }
+  },
+  {
+    "searchTerm": "einhell",
+    "productCode": "3881016",
+    "weight": 1.2949300207850312,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 43.0,
+      "originalScore": 264.96307
+    }
+  },
+  {
+    "searchTerm": "einhell",
+    "productCode": "3881041",
+    "weight": 0.7137699990917451,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 79.0,
+      "originalScore": 117.957535
+    }
+  },
+  {
+    "searchTerm": "einhell",
+    "productCode": "3881040",
+    "weight": 0.7481736688165158,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 94.0,
+      "originalScore": 117.957535
+    }
+  },
+  {
+    "searchTerm": "einhell",
+    "productCode": "3881039",
+    "weight": 0.7137699990917451,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 79.0,
+      "originalScore": 117.957535
+    }
+  },
+  {
+    "searchTerm": "einhell",
+    "productCode": "3881035",
+    "weight": 0.6518433935871579,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 52.0,
+      "originalScore": 117.957535
+    }
+  },
+  {
+    "searchTerm": "einhell",
+    "productCode": "3881034",
+    "weight": 0.7023021091834882,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 74.0,
+      "originalScore": 117.957535
+    }
+  },
+  {
+    "searchTerm": "einhell",
+    "productCode": "3881033",
+    "weight": 0.5945039440458736,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 27.0,
+      "originalScore": 117.957535
+    }
+  },
+  {
+    "searchTerm": "einhell",
+    "productCode": "3881032",
+    "weight": 0.6908342192752314,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 69.0,
+      "originalScore": 117.957535
+    }
+  },
+  {
+    "searchTerm": "einhell",
+    "productCode": "3881030",
+    "weight": 0.6449626596422039,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 49.0,
+      "originalScore": 117.957535
+    }
+  },
+  {
+    "searchTerm": "einhell",
+    "productCode": "3881029",
+    "weight": 0.6289076137706442,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 42.0,
+      "originalScore": 117.957535
+    }
+  },
+  {
+    "searchTerm": "einhell",
+    "productCode": "3881028",
+    "weight": 0.5761553201926626,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 19.0,
+      "originalScore": 117.957535
+    }
+  },
+  {
+    "searchTerm": "einhell",
+    "productCode": "3881027",
+    "weight": 0.5922103660642222,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 26.0,
+      "originalScore": 117.957535
+    }
+  },
+  {
+    "searchTerm": "einhell",
+    "productCode": "3881025",
+    "weight": 0.62202687982569,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 39.0,
+      "originalScore": 117.957535
+    }
+  },
+  {
+    "searchTerm": "einhell",
+    "productCode": "3881024",
+    "weight": 0.6449626596422039,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 49.0,
+      "originalScore": 117.957535
+    }
+  },
+  {
+    "searchTerm": "einhell",
+    "productCode": "3881023",
+    "weight": 0.5738617422110112,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 18.0,
+      "originalScore": 117.957535
+    }
+  },
+  {
+    "searchTerm": "einhell",
+    "productCode": "3881022",
+    "weight": 0.5738617422110112,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 18.0,
+      "originalScore": 117.957535
+    }
+  },
+  {
+    "searchTerm": "einhell",
+    "productCode": "3881021",
+    "weight": 0.5807424761559653,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 21.0,
+      "originalScore": 117.957535
+    }
+  },
+  {
+    "searchTerm": "einhell",
+    "productCode": "3881020",
+    "weight": 0.6013846779908277,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 30.0,
+      "originalScore": 117.957535
+    }
+  },
+  {
+    "searchTerm": "einhell",
+    "productCode": "3881018",
+    "weight": 0.6587241275321121,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 55.0,
+      "originalScore": 117.957535
+    }
+  },
+  {
+    "searchTerm": "einhell",
+    "productCode": "3881017",
+    "weight": 0.6013846779908277,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 30.0,
+      "originalScore": 117.957535
+    }
+  },
+  {
+    "searchTerm": "einhell",
+    "productCode": "3880598",
+    "weight": 0.7596415587247727,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 99.0,
+      "originalScore": 117.957535
+    }
+  },
+  {
+    "searchTerm": "einhell",
+    "productCode": "3880596",
+    "weight": 0.6793663293669745,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 64.0,
+      "originalScore": 117.957535
+    }
+  },
+  {
+    "searchTerm": "einhell",
+    "productCode": "3880595",
+    "weight": 0.6862470633119286,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 67.0,
+      "originalScore": 117.957535
+    }
+  },
+  {
+    "searchTerm": "einhell",
+    "productCode": "3880525",
+    "weight": 0.6357883477155983,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 45.0,
+      "originalScore": 117.957535
+    }
+  },
+  {
+    "searchTerm": "einhell",
+    "productCode": "3880520",
+    "weight": 0.6449626596422039,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 49.0,
+      "originalScore": 117.957535
+    }
+  },
+  {
+    "searchTerm": "einhell",
+    "productCode": "3880517",
+    "weight": 0.6793663293669745,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 64.0,
+      "originalScore": 117.957535
+    }
+  },
+  {
+    "searchTerm": "einhell",
+    "productCode": "3880504",
+    "weight": 0.6289076137706442,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 42.0,
+      "originalScore": 117.957535
+    }
+  },
+  {
+    "searchTerm": "einhell",
+    "productCode": "3879445",
+    "weight": 0.6678984394587176,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 59.0,
+      "originalScore": 117.957535
+    }
+  },
+  {
+    "searchTerm": "einhell",
+    "productCode": "3879444",
+    "weight": 0.7137699990917451,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 79.0,
+      "originalScore": 117.957535
+    }
+  },
+  {
+    "searchTerm": "einhell",
+    "productCode": "3879443",
+    "weight": 0.6013846779908277,
+    "features": {
+      "categoryNameMatch": 0.0,
+      "nameMatch": 0.0,
+      "priceFeature": 30.0,
+      "originalScore": 117.957535
+    }
+  }
+]
